@@ -1,0 +1,1101 @@
+SKU_ID,Category,Demand_Pattern,Product_Name,Unit_Selling_Price,Unit_Purchase_Cost,Supplier_ID,Base_Daily_Demand
+SKU-0001,Clothing,Declining,Clothing Product 0001,916.6,524.47,SUP-10,2
+SKU-0002,Clothing,Intermittent,Clothing Product 0002,411.89,278.8,SUP-10,2
+SKU-0003,Clothing,Seasonal,Clothing Product 0003,3334.73,2348.17,SUP-04,6
+SKU-0004,Clothing,Seasonal,Clothing Product 0004,2769.81,1524.99,SUP-09,2
+SKU-0005,Home & Kitchen,Seasonal,Home Product 0005,4870.25,3515.3,SUP-05,7
+SKU-0006,Clothing,Declining,Clothing Product 0006,4051.22,2378.9,SUP-08,6
+SKU-0007,Electronics,Growing,Electronics Product 0007,19928.27,13160.91,SUP-09,3
+SKU-0008,Clothing,Seasonal,Clothing Product 0008,1203.96,762.3,SUP-10,2
+SKU-0009,Clothing,Growing,Clothing Product 0009,2059.55,1429.19,SUP-05,4
+SKU-0010,Home & Kitchen,Stable,Home Product 0010,7275.36,4541.51,SUP-06,7
+SKU-0011,Beauty,Growing,Beauty Product 0011,2344.34,1697.19,SUP-01,8
+SKU-0012,Electronics,Seasonal,Electronics Product 0012,17364.16,12087.18,SUP-07,3
+SKU-0013,Clothing,Seasonal,Clothing Product 0013,1575.97,1070.94,SUP-04,9
+SKU-0014,Clothing,Stable,Clothing Product 0014,1789.48,1269.19,SUP-02,2
+SKU-0015,Home & Kitchen,Growing,Home Product 0015,5936.08,4160.03,SUP-05,8
+SKU-0016,Clothing,Seasonal,Clothing Product 0016,4315.4,2404.49,SUP-03,8
+SKU-0017,Home & Kitchen,Stable,Home Product 0017,5469.97,3440.32,SUP-06,8
+SKU-0018,Clothing,Seasonal,Clothing Product 0018,4123.84,3035.81,SUP-08,4
+SKU-0019,Clothing,Stable,Clothing Product 0019,3926.62,2258.38,SUP-07,1
+SKU-0020,Clothing,Seasonal,Clothing Product 0020,1088.64,759.24,SUP-03,1
+SKU-0021,Clothing,Declining,Clothing Product 0021,2350.15,1750.67,SUP-08,2
+SKU-0022,Clothing,Seasonal,Clothing Product 0022,1103.73,618.57,SUP-02,12
+SKU-0023,Beauty,Declining,Beauty Product 0023,820.42,563.17,SUP-10,9
+SKU-0024,Beauty,Declining,Beauty Product 0024,2627.39,1691.07,SUP-09,2
+SKU-0025,Beauty,Stable,Beauty Product 0025,1497.74,997.25,SUP-04,2
+SKU-0026,Clothing,Seasonal,Clothing Product 0026,2862.65,1623.32,SUP-01,6
+SKU-0027,Home & Kitchen,Declining,Home Product 0027,1674.03,935.12,SUP-08,7
+SKU-0028,Beauty,Stable,Beauty Product 0028,1039.97,710.69,SUP-07,7
+SKU-0029,Clothing,Growing,Clothing Product 0029,1459.13,1042.78,SUP-05,9
+SKU-0030,Clothing,Stable,Clothing Product 0030,1348.46,952.56,SUP-10,6
+SKU-0031,Beauty,Seasonal,Beauty Product 0031,1968.19,1296.57,SUP-05,8
+SKU-0032,Home & Kitchen,Stable,Home Product 0032,2278.01,1298.41,SUP-07,3
+SKU-0033,Home & Kitchen,Growing,Home Product 0033,5166.52,3552.55,SUP-05,6
+SKU-0034,Clothing,Intermittent,Clothing Product 0034,668.89,400.25,SUP-08,2
+SKU-0035,Clothing,Seasonal,Clothing Product 0035,1052.16,770.41,SUP-06,1
+SKU-0036,Clothing,Seasonal,Clothing Product 0036,1662.89,1193.38,SUP-05,5
+SKU-0037,Beauty,Declining,Beauty Product 0037,1851.58,1281.06,SUP-09,9
+SKU-0038,Clothing,Seasonal,Clothing Product 0038,3508.87,2595.75,SUP-02,8
+SKU-0039,Electronics,Growing,Electronics Product 0039,14117.43,7853.31,SUP-01,5
+SKU-0040,Beauty,Stable,Beauty Product 0040,1420.5,990.43,SUP-08,4
+SKU-0041,Clothing,Growing,Clothing Product 0041,3732.78,2299.57,SUP-03,5
+SKU-0042,Clothing,Seasonal,Clothing Product 0042,472.78,345.7,SUP-07,5
+SKU-0043,Clothing,Seasonal,Clothing Product 0043,1969.01,1187.97,SUP-10,6
+SKU-0044,Home & Kitchen,Stable,Home Product 0044,6604.04,4589.62,SUP-08,3
+SKU-0045,Beauty,Stable,Beauty Product 0045,1869.18,1356.15,SUP-06,5
+SKU-0046,Home & Kitchen,Intermittent,Home Product 0046,2896.65,1617.29,SUP-10,8
+SKU-0047,Clothing,Declining,Clothing Product 0047,4565.41,2874.06,SUP-09,2
+SKU-0048,Home & Kitchen,Stable,Home Product 0048,6249.2,4389.82,SUP-07,2
+SKU-0049,Beauty,Stable,Beauty Product 0049,904.95,580.06,SUP-10,1
+SKU-0050,Home & Kitchen,Growing,Home Product 0050,5268.73,3179.42,SUP-05,3
+SKU-0051,Electronics,Seasonal,Electronics Product 0051,18478.9,10975.75,SUP-08,1
+SKU-0052,Clothing,Growing,Clothing Product 0052,2245.46,1294.07,SUP-02,10
+SKU-0053,Clothing,Declining,Clothing Product 0053,2088.0,1506.34,SUP-07,7
+SKU-0054,Clothing,Seasonal,Clothing Product 0054,1980.38,1317.09,SUP-04,2
+SKU-0055,Beauty,Stable,Beauty Product 0055,1908.89,1079.05,SUP-09,4
+SKU-0056,Electronics,Declining,Electronics Product 0056,14108.68,8839.31,SUP-01,5
+SKU-0057,Clothing,Stable,Clothing Product 0057,4226.57,2635.46,SUP-07,7
+SKU-0058,Home & Kitchen,Seasonal,Home Product 0058,5455.94,3199.08,SUP-06,2
+SKU-0059,Clothing,Stable,Clothing Product 0059,721.69,459.79,SUP-08,6
+SKU-0060,Home & Kitchen,Seasonal,Home Product 0060,5229.3,3223.44,SUP-05,1
+SKU-0061,Clothing,Growing,Clothing Product 0061,1647.28,1018.61,SUP-01,7
+SKU-0062,Home & Kitchen,Stable,Home Product 0062,4864.65,3394.58,SUP-01,1
+SKU-0063,Home & Kitchen,Intermittent,Home Product 0063,5537.02,3292.6,SUP-09,5
+SKU-0064,Clothing,Stable,Clothing Product 0064,1461.81,991.65,SUP-10,5
+SKU-0065,Beauty,Stable,Beauty Product 0065,1452.05,964.35,SUP-06,4
+SKU-0066,Home & Kitchen,Stable,Home Product 0066,1765.5,1171.62,SUP-10,8
+SKU-0067,Clothing,Seasonal,Clothing Product 0067,640.76,437.38,SUP-05,3
+SKU-0068,Beauty,Growing,Beauty Product 0068,1228.66,810.52,SUP-01,9
+SKU-0069,Home & Kitchen,Growing,Home Product 0069,3094.67,2246.27,SUP-06,5
+SKU-0070,Home & Kitchen,Stable,Home Product 0070,7965.2,5457.09,SUP-06,8
+SKU-0071,Electronics,Declining,Electronics Product 0071,14221.04,9377.25,SUP-03,1
+SKU-0072,Electronics,Stable,Electronics Product 0072,11006.73,7880.3,SUP-08,5
+SKU-0073,Clothing,Seasonal,Clothing Product 0073,3070.19,2060.8,SUP-01,10
+SKU-0074,Electronics,Growing,Electronics Product 0074,4029.87,2451.08,SUP-01,1
+SKU-0075,Home & Kitchen,Seasonal,Home Product 0075,7704.83,4556.78,SUP-06,2
+SKU-0076,Beauty,Declining,Beauty Product 0076,1959.64,1137.5,SUP-10,9
+SKU-0077,Beauty,Seasonal,Beauty Product 0077,2301.29,1679.69,SUP-01,4
+SKU-0078,Home & Kitchen,Seasonal,Home Product 0078,1612.68,1116.02,SUP-06,6
+SKU-0079,Clothing,Stable,Clothing Product 0079,2283.6,1684.1,SUP-01,6
+SKU-0080,Clothing,Intermittent,Clothing Product 0080,2344.37,1572.27,SUP-06,6
+SKU-0081,Beauty,Seasonal,Beauty Product 0081,2492.15,1606.64,SUP-03,2
+SKU-0082,Beauty,Growing,Beauty Product 0082,153.52,86.27,SUP-08,7
+SKU-0083,Clothing,Intermittent,Clothing Product 0083,1783.92,1220.79,SUP-06,6
+SKU-0084,Clothing,Stable,Clothing Product 0084,4913.69,3274.69,SUP-01,11
+SKU-0085,Clothing,Stable,Clothing Product 0085,2584.48,1933.3,SUP-05,1
+SKU-0086,Clothing,Seasonal,Clothing Product 0086,2159.62,1291.09,SUP-08,2
+SKU-0087,Clothing,Seasonal,Clothing Product 0087,951.21,624.13,SUP-03,7
+SKU-0088,Electronics,Seasonal,Electronics Product 0088,29263.69,19904.91,SUP-06,1
+SKU-0089,Clothing,Growing,Clothing Product 0089,492.12,334.11,SUP-05,1
+SKU-0090,Clothing,Seasonal,Clothing Product 0090,3791.03,2510.64,SUP-06,1
+SKU-0091,Clothing,Growing,Clothing Product 0091,3935.56,2776.09,SUP-10,8
+SKU-0092,Beauty,Seasonal,Beauty Product 0092,844.42,499.05,SUP-01,4
+SKU-0093,Clothing,Stable,Clothing Product 0093,3489.17,2425.41,SUP-07,4
+SKU-0094,Clothing,Seasonal,Clothing Product 0094,827.47,557.67,SUP-09,2
+SKU-0095,Clothing,Seasonal,Clothing Product 0095,1582.42,1153.92,SUP-02,11
+SKU-0096,Beauty,Growing,Beauty Product 0096,2395.52,1723.43,SUP-10,1
+SKU-0097,Clothing,Stable,Clothing Product 0097,4377.56,2683.57,SUP-05,12
+SKU-0098,Beauty,Stable,Beauty Product 0098,1884.19,1140.4,SUP-10,10
+SKU-0099,Home & Kitchen,Intermittent,Home Product 0099,4202.66,3136.57,SUP-04,1
+SKU-0100,Home & Kitchen,Stable,Home Product 0100,1526.64,1000.64,SUP-06,7
+SKU-0101,Beauty,Intermittent,Beauty Product 0101,329.86,241.22,SUP-06,4
+SKU-0102,Electronics,Seasonal,Electronics Product 0102,4853.0,2828.21,SUP-02,4
+SKU-0103,Electronics,Declining,Electronics Product 0103,7979.68,5414.72,SUP-02,2
+SKU-0104,Beauty,Stable,Beauty Product 0104,1123.77,800.09,SUP-04,7
+SKU-0105,Home & Kitchen,Growing,Home Product 0105,3233.0,2390.74,SUP-01,2
+SKU-0106,Beauty,Seasonal,Beauty Product 0106,1137.02,702.07,SUP-09,10
+SKU-0107,Beauty,Seasonal,Beauty Product 0107,831.31,577.76,SUP-07,8
+SKU-0108,Clothing,Stable,Clothing Product 0108,2744.73,1805.38,SUP-07,8
+SKU-0109,Clothing,Stable,Clothing Product 0109,4196.32,2358.86,SUP-03,1
+SKU-0110,Clothing,Intermittent,Clothing Product 0110,1686.64,1160.41,SUP-03,8
+SKU-0111,Electronics,Stable,Electronics Product 0111,28358.03,19510.87,SUP-01,2
+SKU-0112,Clothing,Seasonal,Clothing Product 0112,4417.35,3251.71,SUP-03,6
+SKU-0113,Clothing,Declining,Clothing Product 0113,1144.12,743.06,SUP-03,1
+SKU-0114,Clothing,Seasonal,Clothing Product 0114,4016.87,2394.26,SUP-04,5
+SKU-0115,Home & Kitchen,Stable,Home Product 0115,4724.32,2640.48,SUP-04,3
+SKU-0116,Beauty,Intermittent,Beauty Product 0116,1764.74,1117.31,SUP-03,7
+SKU-0117,Clothing,Seasonal,Clothing Product 0117,2198.8,1342.11,SUP-10,10
+SKU-0118,Beauty,Intermittent,Beauty Product 0118,1578.29,1108.3,SUP-08,1
+SKU-0119,Clothing,Stable,Clothing Product 0119,2227.02,1382.65,SUP-08,2
+SKU-0120,Electronics,Stable,Electronics Product 0120,16882.38,12489.83,SUP-01,3
+SKU-0121,Beauty,Intermittent,Beauty Product 0121,1939.66,1440.12,SUP-07,10
+SKU-0122,Clothing,Stable,Clothing Product 0122,3501.8,2360.85,SUP-02,2
+SKU-0123,Beauty,Growing,Beauty Product 0123,1667.57,1226.88,SUP-01,10
+SKU-0124,Beauty,Growing,Beauty Product 0124,2206.05,1549.02,SUP-03,4
+SKU-0125,Clothing,Stable,Clothing Product 0125,1049.88,692.26,SUP-04,3
+SKU-0126,Home & Kitchen,Seasonal,Home Product 0126,1932.27,1132.43,SUP-06,7
+SKU-0127,Clothing,Stable,Clothing Product 0127,4166.18,2673.52,SUP-10,8
+SKU-0128,Beauty,Growing,Beauty Product 0128,1069.2,708.0,SUP-05,2
+SKU-0129,Clothing,Stable,Clothing Product 0129,505.31,365.23,SUP-04,10
+SKU-0130,Clothing,Intermittent,Clothing Product 0130,1107.44,715.7,SUP-08,7
+SKU-0131,Electronics,Intermittent,Electronics Product 0131,7873.01,5743.64,SUP-04,2
+SKU-0132,Clothing,Intermittent,Clothing Product 0132,4803.69,3289.9,SUP-10,1
+SKU-0133,Beauty,Growing,Beauty Product 0133,1783.17,1029.6,SUP-02,4
+SKU-0134,Clothing,Stable,Clothing Product 0134,4690.56,3513.21,SUP-03,1
+SKU-0135,Home & Kitchen,Stable,Home Product 0135,4728.76,3099.45,SUP-06,4
+SKU-0136,Clothing,Stable,Clothing Product 0136,2605.03,1636.93,SUP-08,2
+SKU-0137,Clothing,Declining,Clothing Product 0137,1843.15,1256.7,SUP-08,11
+SKU-0138,Home & Kitchen,Seasonal,Home Product 0138,4969.06,2841.2,SUP-09,5
+SKU-0139,Clothing,Stable,Clothing Product 0139,1040.31,704.61,SUP-07,5
+SKU-0140,Clothing,Seasonal,Clothing Product 0140,4532.0,2944.2,SUP-02,10
+SKU-0141,Clothing,Intermittent,Clothing Product 0141,4214.93,2661.03,SUP-08,9
+SKU-0142,Clothing,Stable,Clothing Product 0142,1860.64,1378.0,SUP-07,11
+SKU-0143,Clothing,Intermittent,Clothing Product 0143,4782.87,3130.43,SUP-08,12
+SKU-0144,Clothing,Declining,Clothing Product 0144,4195.92,2491.64,SUP-03,10
+SKU-0145,Beauty,Declining,Beauty Product 0145,2048.97,1315.01,SUP-07,3
+SKU-0146,Beauty,Seasonal,Beauty Product 0146,497.02,364.75,SUP-10,8
+SKU-0147,Beauty,Stable,Beauty Product 0147,1512.97,885.42,SUP-09,3
+SKU-0148,Beauty,Seasonal,Beauty Product 0148,1592.41,943.97,SUP-03,6
+SKU-0149,Clothing,Stable,Clothing Product 0149,1469.74,812.19,SUP-10,4
+SKU-0150,Clothing,Seasonal,Clothing Product 0150,767.84,424.49,SUP-06,8
+SKU-0151,Beauty,Stable,Beauty Product 0151,2363.66,1692.09,SUP-02,6
+SKU-0152,Clothing,Seasonal,Clothing Product 0152,961.36,669.51,SUP-02,8
+SKU-0153,Clothing,Declining,Clothing Product 0153,3133.74,1946.08,SUP-05,1
+SKU-0154,Clothing,Growing,Clothing Product 0154,4707.67,3246.7,SUP-05,6
+SKU-0155,Clothing,Seasonal,Clothing Product 0155,4430.08,2786.7,SUP-07,1
+SKU-0156,Electronics,Growing,Electronics Product 0156,9415.95,6973.26,SUP-02,1
+SKU-0157,Clothing,Intermittent,Clothing Product 0157,4316.66,3209.05,SUP-07,8
+SKU-0158,Beauty,Growing,Beauty Product 0158,150.95,94.88,SUP-05,7
+SKU-0159,Clothing,Declining,Clothing Product 0159,481.36,346.99,SUP-06,3
+SKU-0160,Beauty,Stable,Beauty Product 0160,1867.28,1315.72,SUP-08,6
+SKU-0161,Clothing,Declining,Clothing Product 0161,2078.07,1271.78,SUP-10,9
+SKU-0162,Beauty,Growing,Beauty Product 0162,1251.41,746.35,SUP-04,7
+SKU-0163,Electronics,Intermittent,Electronics Product 0163,17586.57,11284.37,SUP-07,4
+SKU-0164,Electronics,Seasonal,Electronics Product 0164,6965.8,4919.73,SUP-06,3
+SKU-0165,Beauty,Declining,Beauty Product 0165,753.5,559.12,SUP-10,6
+SKU-0166,Home & Kitchen,Stable,Home Product 0166,4031.43,2832.95,SUP-02,3
+SKU-0167,Electronics,Declining,Electronics Product 0167,22996.23,16581.23,SUP-08,4
+SKU-0168,Beauty,Growing,Beauty Product 0168,1915.57,1284.61,SUP-10,3
+SKU-0169,Home & Kitchen,Declining,Home Product 0169,2589.63,1856.98,SUP-09,1
+SKU-0170,Beauty,Seasonal,Beauty Product 0170,1376.46,973.0,SUP-05,10
+SKU-0171,Clothing,Declining,Clothing Product 0171,1185.06,741.13,SUP-10,2
+SKU-0172,Clothing,Seasonal,Clothing Product 0172,743.3,490.87,SUP-04,1
+SKU-0173,Clothing,Growing,Clothing Product 0173,4000.4,2844.09,SUP-06,2
+SKU-0174,Electronics,Growing,Electronics Product 0174,9063.54,5068.43,SUP-08,2
+SKU-0175,Clothing,Stable,Clothing Product 0175,1217.73,866.56,SUP-03,1
+SKU-0176,Beauty,Growing,Beauty Product 0176,2121.11,1242.07,SUP-10,6
+SKU-0177,Beauty,Stable,Beauty Product 0177,1911.45,1248.06,SUP-01,7
+SKU-0178,Clothing,Seasonal,Clothing Product 0178,3312.67,2357.48,SUP-04,9
+SKU-0179,Beauty,Stable,Beauty Product 0179,802.35,482.02,SUP-04,8
+SKU-0180,Clothing,Stable,Clothing Product 0180,1470.17,880.87,SUP-01,6
+SKU-0181,Home & Kitchen,Seasonal,Home Product 0181,2000.18,1261.22,SUP-09,3
+SKU-0182,Electronics,Growing,Electronics Product 0182,6451.95,4703.01,SUP-03,3
+SKU-0183,Electronics,Seasonal,Electronics Product 0183,20188.12,11105.25,SUP-05,1
+SKU-0184,Clothing,Declining,Clothing Product 0184,4300.87,3140.82,SUP-06,12
+SKU-0185,Home & Kitchen,Growing,Home Product 0185,5877.24,3413.27,SUP-08,2
+SKU-0186,Clothing,Growing,Clothing Product 0186,4043.63,3024.71,SUP-06,3
+SKU-0187,Home & Kitchen,Stable,Home Product 0187,3416.95,2531.86,SUP-03,2
+SKU-0188,Home & Kitchen,Declining,Home Product 0188,5336.38,3462.96,SUP-06,5
+SKU-0189,Clothing,Growing,Clothing Product 0189,2029.49,1324.33,SUP-01,1
+SKU-0190,Beauty,Seasonal,Beauty Product 0190,1647.69,1064.92,SUP-04,4
+SKU-0191,Beauty,Seasonal,Beauty Product 0191,1522.66,1030.98,SUP-06,5
+SKU-0192,Clothing,Intermittent,Clothing Product 0192,1213.68,689.55,SUP-07,6
+SKU-0193,Clothing,Stable,Clothing Product 0193,2180.56,1213.53,SUP-10,5
+SKU-0194,Clothing,Seasonal,Clothing Product 0194,4833.58,2714.25,SUP-03,1
+SKU-0195,Home & Kitchen,Declining,Home Product 0195,2214.07,1414.51,SUP-09,3
+SKU-0196,Clothing,Declining,Clothing Product 0196,1015.5,614.49,SUP-07,1
+SKU-0197,Clothing,Seasonal,Clothing Product 0197,2325.47,1568.32,SUP-01,11
+SKU-0198,Clothing,Stable,Clothing Product 0198,4035.55,3020.56,SUP-02,5
+SKU-0199,Beauty,Growing,Beauty Product 0199,1809.12,1134.8,SUP-01,5
+SKU-0200,Electronics,Growing,Electronics Product 0200,20907.78,13898.83,SUP-09,4
+SKU-0201,Beauty,Declining,Beauty Product 0201,690.63,437.25,SUP-09,6
+SKU-0202,Electronics,Intermittent,Electronics Product 0202,19140.02,13770.37,SUP-07,2
+SKU-0203,Beauty,Stable,Beauty Product 0203,1071.98,783.02,SUP-10,1
+SKU-0204,Electronics,Growing,Electronics Product 0204,25277.65,18338.21,SUP-03,4
+SKU-0205,Clothing,Declining,Clothing Product 0205,3294.77,2454.19,SUP-05,10
+SKU-0206,Clothing,Stable,Clothing Product 0206,1314.74,730.34,SUP-04,11
+SKU-0207,Beauty,Seasonal,Beauty Product 0207,334.16,239.91,SUP-07,1
+SKU-0208,Home & Kitchen,Stable,Home Product 0208,628.28,440.02,SUP-09,1
+SKU-0209,Clothing,Seasonal,Clothing Product 0209,2108.48,1256.1,SUP-02,11
+SKU-0210,Beauty,Declining,Beauty Product 0210,907.68,672.83,SUP-08,7
+SKU-0211,Home & Kitchen,Growing,Home Product 0211,5274.89,3057.51,SUP-09,7
+SKU-0212,Clothing,Stable,Clothing Product 0212,2696.94,1849.86,SUP-10,12
+SKU-0213,Clothing,Stable,Clothing Product 0213,1623.69,966.06,SUP-10,5
+SKU-0214,Clothing,Stable,Clothing Product 0214,1086.49,691.31,SUP-09,7
+SKU-0215,Beauty,Growing,Beauty Product 0215,512.52,355.6,SUP-10,2
+SKU-0216,Clothing,Growing,Clothing Product 0216,4377.44,2900.78,SUP-07,4
+SKU-0217,Beauty,Stable,Beauty Product 0217,843.91,536.31,SUP-09,7
+SKU-0218,Beauty,Seasonal,Beauty Product 0218,2007.38,1235.08,SUP-09,3
+SKU-0219,Beauty,Stable,Beauty Product 0219,2460.45,1766.44,SUP-03,2
+SKU-0220,Clothing,Growing,Clothing Product 0220,3224.77,1866.38,SUP-04,10
+SKU-0221,Clothing,Growing,Clothing Product 0221,4354.0,2769.23,SUP-02,2
+SKU-0222,Clothing,Stable,Clothing Product 0222,2205.01,1611.31,SUP-10,1
+SKU-0223,Home & Kitchen,Seasonal,Home Product 0223,7662.91,5510.93,SUP-03,5
+SKU-0224,Electronics,Stable,Electronics Product 0224,5294.63,3336.61,SUP-05,4
+SKU-0225,Electronics,Seasonal,Electronics Product 0225,4411.26,3099.45,SUP-05,1
+SKU-0226,Clothing,Stable,Clothing Product 0226,3429.98,2451.17,SUP-06,4
+SKU-0227,Clothing,Seasonal,Clothing Product 0227,4737.02,3447.5,SUP-07,1
+SKU-0228,Beauty,Declining,Beauty Product 0228,2455.32,1617.81,SUP-07,6
+SKU-0229,Home & Kitchen,Stable,Home Product 0229,888.41,524.95,SUP-01,7
+SKU-0230,Beauty,Stable,Beauty Product 0230,946.2,568.72,SUP-02,5
+SKU-0231,Clothing,Growing,Clothing Product 0231,4679.47,2850.45,SUP-09,10
+SKU-0232,Beauty,Stable,Beauty Product 0232,871.22,582.64,SUP-10,6
+SKU-0233,Home & Kitchen,Stable,Home Product 0233,6315.01,3514.69,SUP-02,3
+SKU-0234,Beauty,Seasonal,Beauty Product 0234,2501.63,1694.13,SUP-06,2
+SKU-0235,Clothing,Stable,Clothing Product 0235,2679.08,1668.72,SUP-01,6
+SKU-0236,Clothing,Stable,Clothing Product 0236,2177.2,1326.02,SUP-03,1
+SKU-0237,Clothing,Intermittent,Clothing Product 0237,2470.57,1793.39,SUP-02,7
+SKU-0238,Beauty,Intermittent,Beauty Product 0238,796.85,511.58,SUP-03,7
+SKU-0239,Clothing,Intermittent,Clothing Product 0239,4491.2,2555.54,SUP-05,10
+SKU-0240,Home & Kitchen,Stable,Home Product 0240,3769.77,2696.7,SUP-10,5
+SKU-0241,Clothing,Stable,Clothing Product 0241,4459.31,2495.11,SUP-06,7
+SKU-0242,Home & Kitchen,Stable,Home Product 0242,1113.84,774.51,SUP-09,7
+SKU-0243,Beauty,Seasonal,Beauty Product 0243,2966.58,2090.79,SUP-10,10
+SKU-0244,Clothing,Declining,Clothing Product 0244,2439.06,1513.49,SUP-04,1
+SKU-0245,Clothing,Stable,Clothing Product 0245,620.02,443.29,SUP-07,4
+SKU-0246,Beauty,Stable,Beauty Product 0246,258.36,168.74,SUP-06,7
+SKU-0247,Clothing,Declining,Clothing Product 0247,3832.55,2463.02,SUP-02,11
+SKU-0248,Home & Kitchen,Growing,Home Product 0248,5374.57,3004.82,SUP-10,1
+SKU-0249,Clothing,Growing,Clothing Product 0249,4089.8,2486.62,SUP-08,5
+SKU-0250,Electronics,Stable,Electronics Product 0250,4502.97,3315.1,SUP-07,5
+SKU-0251,Clothing,Stable,Clothing Product 0251,563.63,354.17,SUP-07,2
+SKU-0252,Home & Kitchen,Growing,Home Product 0252,4216.06,2779.82,SUP-08,7
+SKU-0253,Beauty,Seasonal,Beauty Product 0253,1254.65,823.56,SUP-01,10
+SKU-0254,Clothing,Seasonal,Clothing Product 0254,2524.96,1686.89,SUP-01,1
+SKU-0255,Home & Kitchen,Stable,Home Product 0255,7935.23,4461.71,SUP-08,8
+SKU-0256,Clothing,Growing,Clothing Product 0256,4865.45,3028.43,SUP-04,7
+SKU-0257,Electronics,Seasonal,Electronics Product 0257,28355.99,19696.8,SUP-05,5
+SKU-0258,Beauty,Seasonal,Beauty Product 0258,2383.95,1406.8,SUP-08,10
+SKU-0259,Home & Kitchen,Stable,Home Product 0259,3032.28,1791.22,SUP-05,3
+SKU-0260,Home & Kitchen,Seasonal,Home Product 0260,3473.41,1917.39,SUP-10,7
+SKU-0261,Clothing,Seasonal,Clothing Product 0261,2928.23,1866.74,SUP-04,3
+SKU-0262,Home & Kitchen,Intermittent,Home Product 0262,6695.12,4864.32,SUP-06,7
+SKU-0263,Electronics,Growing,Electronics Product 0263,3458.32,1937.97,SUP-05,5
+SKU-0264,Clothing,Seasonal,Clothing Product 0264,2351.77,1383.37,SUP-07,2
+SKU-0265,Clothing,Growing,Clothing Product 0265,780.04,477.4,SUP-10,1
+SKU-0266,Home & Kitchen,Stable,Home Product 0266,4262.86,2968.42,SUP-07,1
+SKU-0267,Beauty,Stable,Beauty Product 0267,2711.87,1838.99,SUP-04,9
+SKU-0268,Clothing,Seasonal,Clothing Product 0268,3999.43,2532.39,SUP-05,7
+SKU-0269,Clothing,Declining,Clothing Product 0269,1448.08,1016.28,SUP-03,7
+SKU-0270,Clothing,Seasonal,Clothing Product 0270,4889.56,3285.42,SUP-04,3
+SKU-0271,Clothing,Seasonal,Clothing Product 0271,3469.81,2530.21,SUP-04,10
+SKU-0272,Clothing,Intermittent,Clothing Product 0272,447.97,319.67,SUP-03,2
+SKU-0273,Clothing,Declining,Clothing Product 0273,1574.9,945.83,SUP-10,11
+SKU-0274,Clothing,Growing,Clothing Product 0274,1599.28,966.43,SUP-05,7
+SKU-0275,Clothing,Declining,Clothing Product 0275,718.57,413.23,SUP-05,9
+SKU-0276,Clothing,Stable,Clothing Product 0276,4815.2,2972.87,SUP-07,1
+SKU-0277,Clothing,Stable,Clothing Product 0277,2599.97,1949.74,SUP-04,4
+SKU-0278,Electronics,Stable,Electronics Product 0278,27030.72,17060.45,SUP-04,2
+SKU-0279,Clothing,Stable,Clothing Product 0279,1882.19,1118.2,SUP-09,7
+SKU-0280,Electronics,Seasonal,Electronics Product 0280,5069.16,3561.07,SUP-06,2
+SKU-0281,Clothing,Stable,Clothing Product 0281,2581.95,1700.2,SUP-04,2
+SKU-0282,Clothing,Seasonal,Clothing Product 0282,924.2,535.96,SUP-02,4
+SKU-0283,Beauty,Seasonal,Beauty Product 0283,1535.14,961.21,SUP-06,5
+SKU-0284,Home & Kitchen,Declining,Home Product 0284,7386.29,4674.74,SUP-02,6
+SKU-0285,Clothing,Stable,Clothing Product 0285,2795.53,1959.01,SUP-05,12
+SKU-0286,Clothing,Declining,Clothing Product 0286,3235.9,1793.12,SUP-06,1
+SKU-0287,Clothing,Intermittent,Clothing Product 0287,1120.54,676.59,SUP-04,1
+SKU-0288,Home & Kitchen,Seasonal,Home Product 0288,636.76,416.13,SUP-03,2
+SKU-0289,Clothing,Growing,Clothing Product 0289,909.72,549.26,SUP-07,3
+SKU-0290,Clothing,Growing,Clothing Product 0290,3153.25,2130.61,SUP-02,10
+SKU-0291,Home & Kitchen,Stable,Home Product 0291,1031.59,666.79,SUP-06,3
+SKU-0292,Beauty,Intermittent,Beauty Product 0292,1221.58,760.24,SUP-04,8
+SKU-0293,Clothing,Intermittent,Clothing Product 0293,2930.42,2168.05,SUP-06,9
+SKU-0294,Clothing,Seasonal,Clothing Product 0294,2187.8,1479.9,SUP-04,11
+SKU-0295,Clothing,Growing,Clothing Product 0295,1152.95,664.09,SUP-04,12
+SKU-0296,Clothing,Stable,Clothing Product 0296,1659.44,1098.58,SUP-04,1
+SKU-0297,Beauty,Stable,Beauty Product 0297,2795.7,1974.17,SUP-09,2
+SKU-0298,Home & Kitchen,Seasonal,Home Product 0298,5505.06,3807.84,SUP-07,2
+SKU-0299,Beauty,Stable,Beauty Product 0299,1563.74,913.88,SUP-03,2
+SKU-0300,Clothing,Declining,Clothing Product 0300,458.49,341.34,SUP-03,4
+SKU-0301,Beauty,Seasonal,Beauty Product 0301,2978.38,1905.46,SUP-06,2
+SKU-0302,Beauty,Growing,Beauty Product 0302,2063.65,1200.64,SUP-06,7
+SKU-0303,Home & Kitchen,Declining,Home Product 0303,2740.3,1605.92,SUP-04,5
+SKU-0304,Clothing,Seasonal,Clothing Product 0304,4444.64,2531.88,SUP-09,9
+SKU-0305,Clothing,Stable,Clothing Product 0305,1588.79,1129.16,SUP-04,7
+SKU-0306,Beauty,Stable,Beauty Product 0306,1700.45,976.75,SUP-09,6
+SKU-0307,Beauty,Seasonal,Beauty Product 0307,1962.8,1128.66,SUP-04,10
+SKU-0308,Clothing,Stable,Clothing Product 0308,1416.89,1020.29,SUP-02,1
+SKU-0309,Clothing,Stable,Clothing Product 0309,4900.63,3033.1,SUP-02,11
+SKU-0310,Electronics,Growing,Electronics Product 0310,22823.47,12693.77,SUP-05,2
+SKU-0311,Home & Kitchen,Declining,Home Product 0311,4595.16,2575.03,SUP-04,1
+SKU-0312,Home & Kitchen,Seasonal,Home Product 0312,1690.58,977.89,SUP-07,5
+SKU-0313,Clothing,Declining,Clothing Product 0313,647.75,383.91,SUP-05,11
+SKU-0314,Clothing,Stable,Clothing Product 0314,1872.28,1278.82,SUP-06,5
+SKU-0315,Clothing,Stable,Clothing Product 0315,3864.66,2247.17,SUP-10,6
+SKU-0316,Clothing,Stable,Clothing Product 0316,1638.92,940.37,SUP-04,9
+SKU-0317,Beauty,Growing,Beauty Product 0317,1687.74,1186.39,SUP-02,8
+SKU-0318,Clothing,Seasonal,Clothing Product 0318,3748.56,2564.81,SUP-10,8
+SKU-0319,Clothing,Seasonal,Clothing Product 0319,896.54,571.15,SUP-09,8
+SKU-0320,Clothing,Intermittent,Clothing Product 0320,3552.37,2344.07,SUP-10,1
+SKU-0321,Beauty,Growing,Beauty Product 0321,411.83,252.2,SUP-07,1
+SKU-0322,Clothing,Declining,Clothing Product 0322,4839.6,3128.8,SUP-04,8
+SKU-0323,Electronics,Stable,Electronics Product 0323,15419.23,10043.08,SUP-03,5
+SKU-0324,Clothing,Declining,Clothing Product 0324,1093.11,685.87,SUP-10,9
+SKU-0325,Beauty,Seasonal,Beauty Product 0325,1125.79,823.31,SUP-03,2
+SKU-0326,Beauty,Stable,Beauty Product 0326,1328.24,734.8,SUP-09,9
+SKU-0327,Home & Kitchen,Growing,Home Product 0327,6138.02,4336.11,SUP-05,4
+SKU-0328,Clothing,Stable,Clothing Product 0328,3819.75,2195.88,SUP-03,8
+SKU-0329,Clothing,Intermittent,Clothing Product 0329,3214.93,2281.02,SUP-05,9
+SKU-0330,Beauty,Growing,Beauty Product 0330,451.9,304.21,SUP-02,4
+SKU-0331,Home & Kitchen,Growing,Home Product 0331,1467.08,1054.33,SUP-04,1
+SKU-0332,Home & Kitchen,Stable,Home Product 0332,1021.93,581.99,SUP-10,1
+SKU-0333,Clothing,Growing,Clothing Product 0333,3054.99,2021.78,SUP-02,5
+SKU-0334,Clothing,Growing,Clothing Product 0334,4434.84,2883.61,SUP-02,2
+SKU-0335,Clothing,Seasonal,Clothing Product 0335,2395.48,1655.85,SUP-08,8
+SKU-0336,Beauty,Seasonal,Beauty Product 0336,608.42,399.65,SUP-01,10
+SKU-0337,Beauty,Stable,Beauty Product 0337,1740.42,1145.45,SUP-07,5
+SKU-0338,Beauty,Seasonal,Beauty Product 0338,2463.49,1566.58,SUP-05,5
+SKU-0339,Home & Kitchen,Growing,Home Product 0339,6011.18,3677.44,SUP-08,2
+SKU-0340,Clothing,Declining,Clothing Product 0340,4454.67,2879.73,SUP-01,7
+SKU-0341,Clothing,Declining,Clothing Product 0341,1678.35,962.87,SUP-07,8
+SKU-0342,Electronics,Declining,Electronics Product 0342,7027.69,5216.67,SUP-05,2
+SKU-0343,Electronics,Declining,Electronics Product 0343,26574.77,18413.18,SUP-04,5
+SKU-0344,Electronics,Stable,Electronics Product 0344,20240.47,14987.93,SUP-07,1
+SKU-0345,Clothing,Seasonal,Clothing Product 0345,1830.27,1089.64,SUP-10,2
+SKU-0346,Home & Kitchen,Seasonal,Home Product 0346,6016.08,4366.88,SUP-02,2
+SKU-0347,Home & Kitchen,Growing,Home Product 0347,6576.41,4680.81,SUP-01,8
+SKU-0348,Clothing,Seasonal,Clothing Product 0348,3228.9,2213.19,SUP-01,4
+SKU-0349,Beauty,Seasonal,Beauty Product 0349,2110.47,1424.58,SUP-01,5
+SKU-0350,Clothing,Stable,Clothing Product 0350,2126.2,1304.02,SUP-05,2
+SKU-0351,Electronics,Stable,Electronics Product 0351,16852.83,12020.82,SUP-10,1
+SKU-0352,Electronics,Intermittent,Electronics Product 0352,16438.54,10690.03,SUP-07,1
+SKU-0353,Beauty,Stable,Beauty Product 0353,2566.94,1448.21,SUP-02,1
+SKU-0354,Electronics,Stable,Electronics Product 0354,25438.97,15583.22,SUP-10,5
+SKU-0355,Clothing,Stable,Clothing Product 0355,4230.33,3118.0,SUP-08,4
+SKU-0356,Clothing,Growing,Clothing Product 0356,450.75,324.6,SUP-04,2
+SKU-0357,Beauty,Stable,Beauty Product 0357,2286.2,1706.38,SUP-03,4
+SKU-0358,Clothing,Seasonal,Clothing Product 0358,3889.91,2628.02,SUP-10,8
+SKU-0359,Beauty,Intermittent,Beauty Product 0359,2083.38,1248.99,SUP-08,8
+SKU-0360,Clothing,Stable,Clothing Product 0360,3878.82,2259.66,SUP-02,11
+SKU-0361,Clothing,Growing,Clothing Product 0361,4273.06,2509.92,SUP-03,12
+SKU-0362,Clothing,Stable,Clothing Product 0362,2563.47,1420.06,SUP-03,9
+SKU-0363,Clothing,Stable,Clothing Product 0363,2709.43,1701.89,SUP-10,11
+SKU-0364,Electronics,Seasonal,Electronics Product 0364,5054.35,2973.4,SUP-01,4
+SKU-0365,Clothing,Seasonal,Clothing Product 0365,2172.73,1373.88,SUP-06,5
+SKU-0366,Clothing,Stable,Clothing Product 0366,3359.48,2475.93,SUP-02,7
+SKU-0367,Home & Kitchen,Stable,Home Product 0367,6309.08,4013.26,SUP-01,3
+SKU-0368,Electronics,Seasonal,Electronics Product 0368,7690.46,5580.17,SUP-02,2
+SKU-0369,Clothing,Growing,Clothing Product 0369,1033.99,693.91,SUP-06,4
+SKU-0370,Beauty,Intermittent,Beauty Product 0370,2039.67,1222.63,SUP-04,10
+SKU-0371,Clothing,Growing,Clothing Product 0371,408.65,253.84,SUP-06,9
+SKU-0372,Beauty,Declining,Beauty Product 0372,658.36,373.15,SUP-09,10
+SKU-0373,Clothing,Declining,Clothing Product 0373,533.73,329.15,SUP-10,10
+SKU-0374,Electronics,Declining,Electronics Product 0374,6256.23,4288.7,SUP-10,4
+SKU-0375,Home & Kitchen,Intermittent,Home Product 0375,1696.16,957.35,SUP-08,1
+SKU-0376,Beauty,Stable,Beauty Product 0376,1254.87,741.73,SUP-01,2
+SKU-0377,Home & Kitchen,Growing,Home Product 0377,3397.92,2128.08,SUP-08,8
+SKU-0378,Clothing,Seasonal,Clothing Product 0378,4421.61,3300.33,SUP-09,5
+SKU-0379,Home & Kitchen,Intermittent,Home Product 0379,4227.84,2988.97,SUP-06,3
+SKU-0380,Clothing,Stable,Clothing Product 0380,3727.66,2597.05,SUP-10,2
+SKU-0381,Home & Kitchen,Declining,Home Product 0381,1101.86,631.63,SUP-05,1
+SKU-0382,Beauty,Intermittent,Beauty Product 0382,792.5,559.66,SUP-06,10
+SKU-0383,Clothing,Stable,Clothing Product 0383,3633.54,2569.11,SUP-06,3
+SKU-0384,Clothing,Seasonal,Clothing Product 0384,642.9,430.88,SUP-09,1
+SKU-0385,Home & Kitchen,Growing,Home Product 0385,4046.8,3027.3,SUP-04,4
+SKU-0386,Clothing,Growing,Clothing Product 0386,3157.1,1941.78,SUP-02,1
+SKU-0387,Clothing,Seasonal,Clothing Product 0387,3169.87,2340.17,SUP-09,12
+SKU-0388,Home & Kitchen,Growing,Home Product 0388,476.58,349.31,SUP-02,1
+SKU-0389,Clothing,Intermittent,Clothing Product 0389,1881.7,1039.26,SUP-10,8
+SKU-0390,Home & Kitchen,Growing,Home Product 0390,5200.98,3328.75,SUP-09,7
+SKU-0391,Beauty,Intermittent,Beauty Product 0391,574.65,428.36,SUP-02,3
+SKU-0392,Electronics,Seasonal,Electronics Product 0392,21319.35,12165.34,SUP-08,3
+SKU-0393,Clothing,Stable,Clothing Product 0393,3831.26,2526.93,SUP-09,1
+SKU-0394,Home & Kitchen,Growing,Home Product 0394,7861.16,5862.79,SUP-10,7
+SKU-0395,Beauty,Seasonal,Beauty Product 0395,748.05,494.54,SUP-09,10
+SKU-0396,Clothing,Seasonal,Clothing Product 0396,4195.6,2466.86,SUP-10,3
+SKU-0397,Electronics,Seasonal,Electronics Product 0397,16328.45,10881.88,SUP-09,4
+SKU-0398,Clothing,Stable,Clothing Product 0398,2117.93,1251.46,SUP-02,4
+SKU-0399,Clothing,Seasonal,Clothing Product 0399,962.93,629.7,SUP-04,5
+SKU-0400,Clothing,Declining,Clothing Product 0400,3783.33,2136.86,SUP-07,6
+SKU-0401,Beauty,Stable,Beauty Product 0401,822.19,551.77,SUP-02,7
+SKU-0402,Clothing,Stable,Clothing Product 0402,2108.54,1377.63,SUP-01,4
+SKU-0403,Home & Kitchen,Seasonal,Home Product 0403,781.58,545.57,SUP-03,8
+SKU-0404,Clothing,Growing,Clothing Product 0404,4086.29,2762.9,SUP-04,8
+SKU-0405,Home & Kitchen,Growing,Home Product 0405,6202.73,4093.31,SUP-08,5
+SKU-0406,Beauty,Declining,Beauty Product 0406,2240.81,1541.58,SUP-06,6
+SKU-0407,Beauty,Intermittent,Beauty Product 0407,1003.41,580.76,SUP-02,1
+SKU-0408,Beauty,Stable,Beauty Product 0408,644.42,431.16,SUP-09,1
+SKU-0409,Home & Kitchen,Growing,Home Product 0409,5209.16,3044.35,SUP-02,1
+SKU-0410,Beauty,Stable,Beauty Product 0410,1564.07,1149.75,SUP-05,10
+SKU-0411,Clothing,Stable,Clothing Product 0411,1219.96,687.65,SUP-04,6
+SKU-0412,Beauty,Stable,Beauty Product 0412,2104.85,1338.84,SUP-07,10
+SKU-0413,Beauty,Growing,Beauty Product 0413,2974.71,2050.05,SUP-08,8
+SKU-0414,Home & Kitchen,Declining,Home Product 0414,6053.59,3884.01,SUP-05,5
+SKU-0415,Beauty,Seasonal,Beauty Product 0415,2258.96,1284.04,SUP-10,7
+SKU-0416,Clothing,Growing,Clothing Product 0416,4771.44,3152.37,SUP-05,12
+SKU-0417,Home & Kitchen,Stable,Home Product 0417,1862.61,1263.46,SUP-02,6
+SKU-0418,Beauty,Seasonal,Beauty Product 0418,1761.82,1216.99,SUP-08,4
+SKU-0419,Clothing,Growing,Clothing Product 0419,4906.37,3064.77,SUP-02,7
+SKU-0420,Beauty,Declining,Beauty Product 0420,621.09,411.62,SUP-10,9
+SKU-0421,Beauty,Seasonal,Beauty Product 0421,2145.72,1373.56,SUP-06,10
+SKU-0422,Electronics,Seasonal,Electronics Product 0422,18195.59,12453.27,SUP-08,2
+SKU-0423,Clothing,Growing,Clothing Product 0423,3097.8,2065.34,SUP-06,7
+SKU-0424,Home & Kitchen,Declining,Home Product 0424,5672.06,3716.06,SUP-04,1
+SKU-0425,Clothing,Growing,Clothing Product 0425,4676.24,2805.3,SUP-04,10
+SKU-0426,Clothing,Stable,Clothing Product 0426,3999.88,2201.55,SUP-06,9
+SKU-0427,Beauty,Stable,Beauty Product 0427,309.99,181.29,SUP-04,4
+SKU-0428,Home & Kitchen,Seasonal,Home Product 0428,6866.01,3937.06,SUP-08,7
+SKU-0429,Clothing,Declining,Clothing Product 0429,1437.49,919.73,SUP-09,3
+SKU-0430,Clothing,Stable,Clothing Product 0430,2133.81,1434.88,SUP-01,4
+SKU-0431,Beauty,Stable,Beauty Product 0431,1465.94,868.74,SUP-04,4
+SKU-0432,Beauty,Stable,Beauty Product 0432,1520.58,1121.9,SUP-04,10
+SKU-0433,Clothing,Declining,Clothing Product 0433,2401.83,1324.22,SUP-02,11
+SKU-0434,Clothing,Seasonal,Clothing Product 0434,4711.83,3319.3,SUP-06,2
+SKU-0435,Clothing,Declining,Clothing Product 0435,3647.69,2462.34,SUP-03,12
+SKU-0436,Clothing,Stable,Clothing Product 0436,3303.38,2063.66,SUP-07,1
+SKU-0437,Clothing,Stable,Clothing Product 0437,629.27,352.45,SUP-05,12
+SKU-0438,Clothing,Declining,Clothing Product 0438,4558.0,3078.92,SUP-04,10
+SKU-0439,Beauty,Intermittent,Beauty Product 0439,2741.76,1719.42,SUP-05,1
+SKU-0440,Clothing,Stable,Clothing Product 0440,3988.98,2940.89,SUP-08,8
+SKU-0441,Clothing,Stable,Clothing Product 0441,432.33,284.65,SUP-03,2
+SKU-0442,Clothing,Intermittent,Clothing Product 0442,663.49,489.61,SUP-07,12
+SKU-0443,Beauty,Stable,Beauty Product 0443,791.89,470.46,SUP-06,10
+SKU-0444,Clothing,Seasonal,Clothing Product 0444,1004.21,698.07,SUP-01,5
+SKU-0445,Clothing,Intermittent,Clothing Product 0445,2234.65,1504.92,SUP-07,12
+SKU-0446,Beauty,Declining,Beauty Product 0446,2779.48,1939.75,SUP-07,4
+SKU-0447,Beauty,Declining,Beauty Product 0447,1495.37,886.66,SUP-01,8
+SKU-0448,Home & Kitchen,Declining,Home Product 0448,403.2,275.39,SUP-09,2
+SKU-0449,Home & Kitchen,Stable,Home Product 0449,2477.14,1609.17,SUP-06,2
+SKU-0450,Clothing,Stable,Clothing Product 0450,605.14,422.73,SUP-02,9
+SKU-0451,Beauty,Seasonal,Beauty Product 0451,253.42,155.96,SUP-05,7
+SKU-0452,Home & Kitchen,Declining,Home Product 0452,2423.04,1764.0,SUP-04,7
+SKU-0453,Beauty,Stable,Beauty Product 0453,935.5,530.3,SUP-07,7
+SKU-0454,Electronics,Seasonal,Electronics Product 0454,23933.11,17026.92,SUP-08,1
+SKU-0455,Home & Kitchen,Growing,Home Product 0455,7806.23,5638.16,SUP-01,6
+SKU-0456,Clothing,Growing,Clothing Product 0456,2107.55,1503.63,SUP-05,12
+SKU-0457,Clothing,Stable,Clothing Product 0457,2372.88,1548.41,SUP-03,2
+SKU-0458,Clothing,Seasonal,Clothing Product 0458,4286.03,2733.1,SUP-01,4
+SKU-0459,Clothing,Seasonal,Clothing Product 0459,1633.44,1223.86,SUP-03,4
+SKU-0460,Clothing,Seasonal,Clothing Product 0460,1119.36,666.95,SUP-06,11
+SKU-0461,Electronics,Seasonal,Electronics Product 0461,25813.05,17020.48,SUP-07,3
+SKU-0462,Clothing,Growing,Clothing Product 0462,613.9,419.99,SUP-08,7
+SKU-0463,Home & Kitchen,Growing,Home Product 0463,5071.69,3500.35,SUP-04,4
+SKU-0464,Clothing,Declining,Clothing Product 0464,2985.17,1763.65,SUP-03,8
+SKU-0465,Beauty,Growing,Beauty Product 0465,1135.87,773.3,SUP-05,2
+SKU-0466,Clothing,Seasonal,Clothing Product 0466,1849.87,1320.2,SUP-09,4
+SKU-0467,Clothing,Stable,Clothing Product 0467,3950.55,2212.32,SUP-06,3
+SKU-0468,Clothing,Stable,Clothing Product 0468,797.55,584.05,SUP-09,2
+SKU-0469,Clothing,Growing,Clothing Product 0469,1489.21,827.85,SUP-06,12
+SKU-0470,Clothing,Growing,Clothing Product 0470,3769.26,2341.44,SUP-02,6
+SKU-0471,Beauty,Stable,Beauty Product 0471,1712.71,947.41,SUP-05,4
+SKU-0472,Beauty,Seasonal,Beauty Product 0472,514.77,291.07,SUP-09,6
+SKU-0473,Beauty,Seasonal,Beauty Product 0473,2664.09,1950.74,SUP-08,2
+SKU-0474,Beauty,Growing,Beauty Product 0474,1271.33,789.46,SUP-07,4
+SKU-0475,Electronics,Declining,Electronics Product 0475,25094.25,15933.7,SUP-01,3
+SKU-0476,Clothing,Intermittent,Clothing Product 0476,4023.48,2386.2,SUP-04,6
+SKU-0477,Clothing,Growing,Clothing Product 0477,3272.36,2190.58,SUP-07,5
+SKU-0478,Clothing,Stable,Clothing Product 0478,2674.61,1789.21,SUP-07,3
+SKU-0479,Clothing,Seasonal,Clothing Product 0479,4905.93,3063.46,SUP-06,8
+SKU-0480,Beauty,Intermittent,Beauty Product 0480,563.15,347.24,SUP-08,7
+SKU-0481,Clothing,Declining,Clothing Product 0481,3735.72,2715.84,SUP-06,3
+SKU-0482,Beauty,Growing,Beauty Product 0482,694.89,435.46,SUP-10,6
+SKU-0483,Clothing,Intermittent,Clothing Product 0483,1956.01,1268.86,SUP-03,4
+SKU-0484,Clothing,Declining,Clothing Product 0484,1820.01,1104.13,SUP-04,11
+SKU-0485,Beauty,Stable,Beauty Product 0485,2849.05,2015.29,SUP-03,5
+SKU-0486,Beauty,Seasonal,Beauty Product 0486,2906.97,1829.91,SUP-01,5
+SKU-0487,Home & Kitchen,Seasonal,Home Product 0487,1709.22,1115.65,SUP-10,8
+SKU-0488,Home & Kitchen,Stable,Home Product 0488,469.67,282.12,SUP-05,7
+SKU-0489,Clothing,Growing,Clothing Product 0489,3712.04,2774.87,SUP-01,11
+SKU-0490,Home & Kitchen,Growing,Home Product 0490,3518.52,2140.31,SUP-01,5
+SKU-0491,Clothing,Declining,Clothing Product 0491,808.67,569.42,SUP-02,11
+SKU-0492,Beauty,Growing,Beauty Product 0492,2098.7,1333.72,SUP-04,3
+SKU-0493,Beauty,Seasonal,Beauty Product 0493,1703.55,1007.21,SUP-06,10
+SKU-0494,Beauty,Declining,Beauty Product 0494,2944.47,2090.41,SUP-08,5
+SKU-0495,Electronics,Seasonal,Electronics Product 0495,7981.17,4922.16,SUP-03,5
+SKU-0496,Beauty,Seasonal,Beauty Product 0496,1301.34,940.92,SUP-01,5
+SKU-0497,Home & Kitchen,Seasonal,Home Product 0497,4477.6,3282.31,SUP-03,1
+SKU-0498,Clothing,Growing,Clothing Product 0498,4041.82,2918.05,SUP-03,3
+SKU-0499,Beauty,Stable,Beauty Product 0499,1714.19,954.81,SUP-05,6
+SKU-0500,Home & Kitchen,Declining,Home Product 0500,5019.33,3551.05,SUP-04,1
+SKU-0501,Beauty,Stable,Beauty Product 0501,794.52,502.35,SUP-04,10
+SKU-0502,Home & Kitchen,Seasonal,Home Product 0502,6821.27,4943.68,SUP-09,5
+SKU-0503,Electronics,Growing,Electronics Product 0503,13715.97,9293.82,SUP-07,5
+SKU-0504,Home & Kitchen,Growing,Home Product 0504,1385.39,992.95,SUP-04,1
+SKU-0505,Home & Kitchen,Stable,Home Product 0505,5414.25,3518.65,SUP-03,3
+SKU-0506,Clothing,Seasonal,Clothing Product 0506,1394.02,915.88,SUP-06,6
+SKU-0507,Beauty,Stable,Beauty Product 0507,428.05,247.79,SUP-03,8
+SKU-0508,Clothing,Stable,Clothing Product 0508,4365.14,3085.27,SUP-06,10
+SKU-0509,Home & Kitchen,Seasonal,Home Product 0509,3843.25,2436.15,SUP-09,8
+SKU-0510,Clothing,Declining,Clothing Product 0510,3846.71,2500.42,SUP-06,3
+SKU-0511,Clothing,Growing,Clothing Product 0511,1736.7,1227.88,SUP-04,7
+SKU-0512,Beauty,Seasonal,Beauty Product 0512,2392.86,1602.66,SUP-05,7
+SKU-0513,Beauty,Declining,Beauty Product 0513,469.02,276.82,SUP-06,10
+SKU-0514,Clothing,Declining,Clothing Product 0514,2037.48,1361.13,SUP-03,12
+SKU-0515,Clothing,Declining,Clothing Product 0515,4899.08,3093.9,SUP-08,6
+SKU-0516,Beauty,Stable,Beauty Product 0516,2412.87,1553.66,SUP-04,7
+SKU-0517,Home & Kitchen,Stable,Home Product 0517,4128.87,2294.26,SUP-08,6
+SKU-0518,Electronics,Stable,Electronics Product 0518,11183.66,6620.79,SUP-10,2
+SKU-0519,Clothing,Declining,Clothing Product 0519,4411.82,2674.48,SUP-10,9
+SKU-0520,Home & Kitchen,Seasonal,Home Product 0520,4495.33,3113.43,SUP-03,2
+SKU-0521,Beauty,Stable,Beauty Product 0521,2311.51,1276.64,SUP-10,10
+SKU-0522,Home & Kitchen,Growing,Home Product 0522,6106.63,3857.9,SUP-07,1
+SKU-0523,Clothing,Seasonal,Clothing Product 0523,482.55,354.58,SUP-09,1
+SKU-0524,Home & Kitchen,Stable,Home Product 0524,1272.15,728.15,SUP-04,3
+SKU-0525,Clothing,Growing,Clothing Product 0525,3434.3,2243.58,SUP-08,3
+SKU-0526,Clothing,Stable,Clothing Product 0526,1143.45,808.77,SUP-03,1
+SKU-0527,Clothing,Seasonal,Clothing Product 0527,1575.27,1163.35,SUP-07,12
+SKU-0528,Clothing,Stable,Clothing Product 0528,4754.53,3325.11,SUP-03,7
+SKU-0529,Electronics,Declining,Electronics Product 0529,17465.19,12122.82,SUP-07,4
+SKU-0530,Beauty,Seasonal,Beauty Product 0530,2289.58,1637.73,SUP-10,10
+SKU-0531,Home & Kitchen,Intermittent,Home Product 0531,4596.45,2938.24,SUP-10,5
+SKU-0532,Home & Kitchen,Growing,Home Product 0532,4554.35,3238.91,SUP-06,2
+SKU-0533,Clothing,Seasonal,Clothing Product 0533,833.1,459.53,SUP-02,10
+SKU-0534,Home & Kitchen,Seasonal,Home Product 0534,2946.21,2165.21,SUP-03,5
+SKU-0535,Clothing,Seasonal,Clothing Product 0535,1699.18,1085.2,SUP-06,6
+SKU-0536,Clothing,Declining,Clothing Product 0536,2197.35,1451.74,SUP-04,9
+SKU-0537,Home & Kitchen,Growing,Home Product 0537,6447.25,3874.65,SUP-06,4
+SKU-0538,Electronics,Growing,Electronics Product 0538,12100.08,8451.98,SUP-01,2
+SKU-0539,Home & Kitchen,Stable,Home Product 0539,3778.07,2135.85,SUP-10,5
+SKU-0540,Clothing,Declining,Clothing Product 0540,2227.95,1614.21,SUP-01,3
+SKU-0541,Clothing,Seasonal,Clothing Product 0541,829.68,593.74,SUP-03,2
+SKU-0542,Beauty,Growing,Beauty Product 0542,1407.06,834.68,SUP-08,1
+SKU-0543,Clothing,Seasonal,Clothing Product 0543,1299.8,925.28,SUP-08,10
+SKU-0544,Clothing,Growing,Clothing Product 0544,1258.93,890.41,SUP-04,2
+SKU-0545,Electronics,Stable,Electronics Product 0545,4180.03,2827.55,SUP-06,5
+SKU-0546,Clothing,Growing,Clothing Product 0546,2040.69,1274.83,SUP-08,3
+SKU-0547,Clothing,Stable,Clothing Product 0547,3884.42,2347.35,SUP-07,11
+SKU-0548,Clothing,Seasonal,Clothing Product 0548,1671.63,996.89,SUP-07,9
+SKU-0549,Beauty,Seasonal,Beauty Product 0549,1040.19,638.39,SUP-04,9
+SKU-0550,Clothing,Stable,Clothing Product 0550,3356.3,2452.49,SUP-09,2
+SKU-0551,Beauty,Intermittent,Beauty Product 0551,708.15,400.48,SUP-10,8
+SKU-0552,Clothing,Stable,Clothing Product 0552,4526.01,3239.6,SUP-06,10
+SKU-0553,Clothing,Intermittent,Clothing Product 0553,2792.88,1730.97,SUP-03,11
+SKU-0554,Home & Kitchen,Declining,Home Product 0554,3746.54,2451.44,SUP-05,4
+SKU-0555,Beauty,Seasonal,Beauty Product 0555,1739.79,1233.33,SUP-05,5
+SKU-0556,Beauty,Seasonal,Beauty Product 0556,623.2,452.99,SUP-05,4
+SKU-0557,Clothing,Seasonal,Clothing Product 0557,3221.98,1994.26,SUP-08,10
+SKU-0558,Clothing,Seasonal,Clothing Product 0558,2070.26,1329.87,SUP-09,5
+SKU-0559,Home & Kitchen,Growing,Home Product 0559,7208.33,4562.18,SUP-09,4
+SKU-0560,Electronics,Seasonal,Electronics Product 0560,6312.34,3488.52,SUP-06,4
+SKU-0561,Beauty,Stable,Beauty Product 0561,1595.1,971.72,SUP-06,10
+SKU-0562,Clothing,Seasonal,Clothing Product 0562,3151.32,2022.64,SUP-09,12
+SKU-0563,Electronics,Stable,Electronics Product 0563,2451.43,1549.84,SUP-04,5
+SKU-0564,Home & Kitchen,Declining,Home Product 0564,3100.44,2152.9,SUP-06,6
+SKU-0565,Beauty,Seasonal,Beauty Product 0565,2238.01,1403.14,SUP-04,6
+SKU-0566,Home & Kitchen,Stable,Home Product 0566,6616.91,4286.93,SUP-01,2
+SKU-0567,Clothing,Declining,Clothing Product 0567,1840.55,1170.45,SUP-07,5
+SKU-0568,Clothing,Declining,Clothing Product 0568,4073.53,2843.83,SUP-10,6
+SKU-0569,Clothing,Seasonal,Clothing Product 0569,4851.68,3505.8,SUP-06,5
+SKU-0570,Beauty,Seasonal,Beauty Product 0570,2592.09,1701.39,SUP-09,2
+SKU-0571,Clothing,Declining,Clothing Product 0571,941.16,666.23,SUP-07,7
+SKU-0572,Clothing,Growing,Clothing Product 0572,3802.76,2317.24,SUP-07,4
+SKU-0573,Beauty,Growing,Beauty Product 0573,1061.05,698.46,SUP-02,8
+SKU-0574,Clothing,Seasonal,Clothing Product 0574,4946.71,3062.24,SUP-09,7
+SKU-0575,Clothing,Stable,Clothing Product 0575,2632.65,1666.05,SUP-10,7
+SKU-0576,Clothing,Declining,Clothing Product 0576,963.2,670.85,SUP-09,9
+SKU-0577,Clothing,Seasonal,Clothing Product 0577,3735.85,2713.47,SUP-06,1
+SKU-0578,Beauty,Declining,Beauty Product 0578,1070.58,614.83,SUP-03,10
+SKU-0579,Clothing,Growing,Clothing Product 0579,4986.56,3375.54,SUP-01,6
+SKU-0580,Clothing,Stable,Clothing Product 0580,4907.0,3270.17,SUP-04,6
+SKU-0581,Electronics,Growing,Electronics Product 0581,20199.82,11588.29,SUP-03,5
+SKU-0582,Beauty,Seasonal,Beauty Product 0582,520.01,308.04,SUP-01,6
+SKU-0583,Clothing,Seasonal,Clothing Product 0583,3559.56,2179.16,SUP-03,12
+SKU-0584,Beauty,Seasonal,Beauty Product 0584,415.14,242.19,SUP-04,10
+SKU-0585,Home & Kitchen,Intermittent,Home Product 0585,526.1,315.0,SUP-08,7
+SKU-0586,Clothing,Declining,Clothing Product 0586,4185.61,2526.1,SUP-09,10
+SKU-0587,Electronics,Growing,Electronics Product 0587,7477.96,4614.91,SUP-03,1
+SKU-0588,Beauty,Intermittent,Beauty Product 0588,1230.23,861.01,SUP-06,3
+SKU-0589,Clothing,Stable,Clothing Product 0589,4877.9,3240.79,SUP-10,2
+SKU-0590,Beauty,Stable,Beauty Product 0590,1110.0,829.45,SUP-05,6
+SKU-0591,Clothing,Growing,Clothing Product 0591,1763.85,1116.42,SUP-06,8
+SKU-0592,Electronics,Intermittent,Electronics Product 0592,27668.93,19389.64,SUP-04,3
+SKU-0593,Clothing,Declining,Clothing Product 0593,909.44,658.7,SUP-10,10
+SKU-0594,Beauty,Stable,Beauty Product 0594,2314.81,1587.49,SUP-06,8
+SKU-0595,Beauty,Stable,Beauty Product 0595,2965.99,1875.61,SUP-07,8
+SKU-0596,Electronics,Seasonal,Electronics Product 0596,27186.94,19050.4,SUP-09,5
+SKU-0597,Home & Kitchen,Stable,Home Product 0597,5317.84,3141.43,SUP-10,8
+SKU-0598,Clothing,Growing,Clothing Product 0598,1844.68,1135.42,SUP-07,6
+SKU-0599,Clothing,Declining,Clothing Product 0599,1569.88,1035.08,SUP-06,5
+SKU-0600,Beauty,Stable,Beauty Product 0600,2484.88,1652.65,SUP-01,9
+SKU-0601,Clothing,Stable,Clothing Product 0601,4447.18,2465.64,SUP-02,7
+SKU-0602,Clothing,Growing,Clothing Product 0602,2817.0,2081.83,SUP-01,8
+SKU-0603,Beauty,Seasonal,Beauty Product 0603,846.37,583.42,SUP-09,1
+SKU-0604,Beauty,Declining,Beauty Product 0604,471.89,306.32,SUP-10,2
+SKU-0605,Beauty,Declining,Beauty Product 0605,398.46,293.52,SUP-10,8
+SKU-0606,Clothing,Stable,Clothing Product 0606,3707.76,2364.88,SUP-09,12
+SKU-0607,Home & Kitchen,Seasonal,Home Product 0607,3534.91,2637.35,SUP-07,1
+SKU-0608,Clothing,Growing,Clothing Product 0608,4564.66,2978.24,SUP-02,4
+SKU-0609,Electronics,Growing,Electronics Product 0609,22580.63,12935.48,SUP-06,4
+SKU-0610,Clothing,Seasonal,Clothing Product 0610,1279.8,899.65,SUP-04,10
+SKU-0611,Clothing,Stable,Clothing Product 0611,3223.38,2210.53,SUP-01,11
+SKU-0612,Beauty,Seasonal,Beauty Product 0612,1391.19,980.23,SUP-01,10
+SKU-0613,Beauty,Stable,Beauty Product 0613,1795.16,1328.94,SUP-05,9
+SKU-0614,Home & Kitchen,Stable,Home Product 0614,5983.13,4219.89,SUP-02,4
+SKU-0615,Home & Kitchen,Declining,Home Product 0615,6507.71,4374.92,SUP-04,2
+SKU-0616,Electronics,Seasonal,Electronics Product 0616,25546.51,18430.83,SUP-01,2
+SKU-0617,Clothing,Seasonal,Clothing Product 0617,1568.28,1073.72,SUP-04,10
+SKU-0618,Electronics,Stable,Electronics Product 0618,2386.79,1507.55,SUP-06,1
+SKU-0619,Clothing,Growing,Clothing Product 0619,3800.76,2763.62,SUP-10,11
+SKU-0620,Clothing,Intermittent,Clothing Product 0620,889.18,528.51,SUP-04,7
+SKU-0621,Beauty,Stable,Beauty Product 0621,1047.52,725.86,SUP-01,2
+SKU-0622,Clothing,Growing,Clothing Product 0622,417.56,303.28,SUP-07,9
+SKU-0623,Beauty,Growing,Beauty Product 0623,2092.76,1457.11,SUP-02,4
+SKU-0624,Clothing,Stable,Clothing Product 0624,1168.81,805.84,SUP-09,8
+SKU-0625,Clothing,Growing,Clothing Product 0625,3414.3,2391.81,SUP-03,7
+SKU-0626,Clothing,Seasonal,Clothing Product 0626,4962.02,3190.63,SUP-08,7
+SKU-0627,Beauty,Growing,Beauty Product 0627,357.11,258.85,SUP-08,8
+SKU-0628,Home & Kitchen,Seasonal,Home Product 0628,893.5,527.78,SUP-03,1
+SKU-0629,Clothing,Stable,Clothing Product 0629,1965.75,1131.24,SUP-04,5
+SKU-0630,Electronics,Stable,Electronics Product 0630,26192.02,15901.22,SUP-02,2
+SKU-0631,Beauty,Declining,Beauty Product 0631,764.26,501.6,SUP-04,2
+SKU-0632,Electronics,Growing,Electronics Product 0632,11770.77,7675.86,SUP-09,1
+SKU-0633,Beauty,Intermittent,Beauty Product 0633,345.24,246.54,SUP-02,5
+SKU-0634,Home & Kitchen,Seasonal,Home Product 0634,6176.3,3896.71,SUP-03,2
+SKU-0635,Beauty,Stable,Beauty Product 0635,1313.67,849.77,SUP-04,4
+SKU-0636,Clothing,Declining,Clothing Product 0636,3892.54,2151.3,SUP-05,3
+SKU-0637,Home & Kitchen,Intermittent,Home Product 0637,7257.78,4586.54,SUP-01,3
+SKU-0638,Electronics,Growing,Electronics Product 0638,8133.75,5527.33,SUP-07,2
+SKU-0639,Beauty,Stable,Beauty Product 0639,2451.08,1355.7,SUP-10,6
+SKU-0640,Clothing,Growing,Clothing Product 0640,671.83,407.25,SUP-07,2
+SKU-0641,Clothing,Seasonal,Clothing Product 0641,4534.7,2682.69,SUP-09,8
+SKU-0642,Home & Kitchen,Growing,Home Product 0642,5310.92,2965.6,SUP-04,8
+SKU-0643,Home & Kitchen,Stable,Home Product 0643,7031.55,4541.34,SUP-06,5
+SKU-0644,Home & Kitchen,Growing,Home Product 0644,301.45,176.75,SUP-02,6
+SKU-0645,Clothing,Intermittent,Clothing Product 0645,1177.77,822.81,SUP-04,12
+SKU-0646,Beauty,Seasonal,Beauty Product 0646,1260.81,907.26,SUP-02,5
+SKU-0647,Clothing,Declining,Clothing Product 0647,2145.71,1414.27,SUP-10,10
+SKU-0648,Home & Kitchen,Seasonal,Home Product 0648,2045.82,1526.88,SUP-05,7
+SKU-0649,Beauty,Declining,Beauty Product 0649,1237.59,792.18,SUP-07,4
+SKU-0650,Beauty,Declining,Beauty Product 0650,517.22,337.58,SUP-01,1
+SKU-0651,Clothing,Stable,Clothing Product 0651,2298.7,1719.07,SUP-10,11
+SKU-0652,Clothing,Declining,Clothing Product 0652,4090.83,2439.4,SUP-10,2
+SKU-0653,Beauty,Growing,Beauty Product 0653,1515.35,1119.1,SUP-07,10
+SKU-0654,Beauty,Intermittent,Beauty Product 0654,201.3,112.44,SUP-10,10
+SKU-0655,Clothing,Stable,Clothing Product 0655,2338.64,1495.04,SUP-06,4
+SKU-0656,Home & Kitchen,Growing,Home Product 0656,509.25,287.22,SUP-06,1
+SKU-0657,Home & Kitchen,Intermittent,Home Product 0657,7740.07,5385.9,SUP-08,7
+SKU-0658,Clothing,Growing,Clothing Product 0658,986.29,662.47,SUP-08,8
+SKU-0659,Beauty,Growing,Beauty Product 0659,2166.91,1498.04,SUP-06,9
+SKU-0660,Electronics,Stable,Electronics Product 0660,29224.13,18262.04,SUP-03,4
+SKU-0661,Clothing,Seasonal,Clothing Product 0661,4199.78,2620.23,SUP-05,10
+SKU-0662,Beauty,Seasonal,Beauty Product 0662,2143.05,1198.1,SUP-02,3
+SKU-0663,Clothing,Seasonal,Clothing Product 0663,4261.52,2642.1,SUP-05,2
+SKU-0664,Clothing,Seasonal,Clothing Product 0664,4916.27,3617.68,SUP-09,5
+SKU-0665,Home & Kitchen,Growing,Home Product 0665,5084.35,3182.02,SUP-10,6
+SKU-0666,Clothing,Stable,Clothing Product 0666,2972.25,2128.94,SUP-01,3
+SKU-0667,Clothing,Declining,Clothing Product 0667,3289.9,2363.68,SUP-10,10
+SKU-0668,Home & Kitchen,Stable,Home Product 0668,4401.6,2749.45,SUP-05,7
+SKU-0669,Clothing,Seasonal,Clothing Product 0669,3321.41,2246.59,SUP-06,11
+SKU-0670,Electronics,Stable,Electronics Product 0670,14320.5,8149.43,SUP-07,1
+SKU-0671,Clothing,Intermittent,Clothing Product 0671,1404.84,801.79,SUP-09,12
+SKU-0672,Home & Kitchen,Stable,Home Product 0672,1225.9,686.17,SUP-06,8
+SKU-0673,Home & Kitchen,Seasonal,Home Product 0673,826.23,550.44,SUP-05,2
+SKU-0674,Beauty,Seasonal,Beauty Product 0674,900.45,571.98,SUP-07,5
+SKU-0675,Beauty,Seasonal,Beauty Product 0675,281.45,185.65,SUP-01,9
+SKU-0676,Beauty,Declining,Beauty Product 0676,1766.44,1155.63,SUP-05,8
+SKU-0677,Beauty,Stable,Beauty Product 0677,958.91,594.56,SUP-02,2
+SKU-0678,Home & Kitchen,Seasonal,Home Product 0678,6648.92,4557.8,SUP-04,1
+SKU-0679,Beauty,Declining,Beauty Product 0679,361.59,253.73,SUP-07,5
+SKU-0680,Clothing,Seasonal,Clothing Product 0680,1441.22,796.89,SUP-05,10
+SKU-0681,Beauty,Stable,Beauty Product 0681,2231.2,1319.64,SUP-06,6
+SKU-0682,Clothing,Stable,Clothing Product 0682,3154.52,2184.97,SUP-02,3
+SKU-0683,Clothing,Growing,Clothing Product 0683,696.66,437.03,SUP-03,3
+SKU-0684,Clothing,Growing,Clothing Product 0684,4435.3,3027.08,SUP-07,10
+SKU-0685,Clothing,Declining,Clothing Product 0685,4435.4,2747.25,SUP-02,8
+SKU-0686,Home & Kitchen,Declining,Home Product 0686,2844.14,1786.55,SUP-06,3
+SKU-0687,Home & Kitchen,Growing,Home Product 0687,2921.12,1699.32,SUP-05,2
+SKU-0688,Beauty,Seasonal,Beauty Product 0688,2968.73,1786.13,SUP-10,10
+SKU-0689,Beauty,Stable,Beauty Product 0689,1934.6,1298.28,SUP-01,2
+SKU-0690,Clothing,Intermittent,Clothing Product 0690,2844.06,1810.62,SUP-10,11
+SKU-0691,Electronics,Stable,Electronics Product 0691,25387.34,17894.53,SUP-04,4
+SKU-0692,Clothing,Seasonal,Clothing Product 0692,1712.34,1233.77,SUP-02,12
+SKU-0693,Beauty,Seasonal,Beauty Product 0693,1373.17,904.0,SUP-04,2
+SKU-0694,Home & Kitchen,Stable,Home Product 0694,2361.88,1657.22,SUP-01,5
+SKU-0695,Clothing,Stable,Clothing Product 0695,4030.14,2463.95,SUP-02,5
+SKU-0696,Clothing,Growing,Clothing Product 0696,3037.41,1922.66,SUP-08,6
+SKU-0697,Clothing,Growing,Clothing Product 0697,3430.6,2375.88,SUP-06,12
+SKU-0698,Clothing,Seasonal,Clothing Product 0698,1560.61,978.88,SUP-02,2
+SKU-0699,Clothing,Seasonal,Clothing Product 0699,1413.04,943.49,SUP-06,5
+SKU-0700,Electronics,Growing,Electronics Product 0700,15418.68,9051.91,SUP-10,2
+SKU-0701,Clothing,Stable,Clothing Product 0701,3792.8,2541.0,SUP-09,10
+SKU-0702,Beauty,Seasonal,Beauty Product 0702,1646.93,1189.58,SUP-07,8
+SKU-0703,Beauty,Declining,Beauty Product 0703,243.04,175.89,SUP-09,7
+SKU-0704,Beauty,Seasonal,Beauty Product 0704,2625.37,1824.29,SUP-05,8
+SKU-0705,Clothing,Declining,Clothing Product 0705,697.56,487.7,SUP-07,12
+SKU-0706,Clothing,Seasonal,Clothing Product 0706,4796.79,3173.49,SUP-07,9
+SKU-0707,Beauty,Intermittent,Beauty Product 0707,221.65,147.83,SUP-03,5
+SKU-0708,Clothing,Declining,Clothing Product 0708,3594.47,2073.04,SUP-07,5
+SKU-0709,Electronics,Stable,Electronics Product 0709,3842.9,2454.74,SUP-01,3
+SKU-0710,Home & Kitchen,Stable,Home Product 0710,7312.21,4680.95,SUP-09,2
+SKU-0711,Home & Kitchen,Growing,Home Product 0711,3876.14,2874.93,SUP-10,4
+SKU-0712,Beauty,Growing,Beauty Product 0712,541.94,344.79,SUP-06,9
+SKU-0713,Clothing,Stable,Clothing Product 0713,1967.75,1298.46,SUP-05,5
+SKU-0714,Beauty,Growing,Beauty Product 0714,619.75,406.96,SUP-07,2
+SKU-0715,Beauty,Stable,Beauty Product 0715,636.16,430.9,SUP-05,10
+SKU-0716,Home & Kitchen,Stable,Home Product 0716,7600.43,5317.61,SUP-10,8
+SKU-0717,Clothing,Intermittent,Clothing Product 0717,2448.13,1456.66,SUP-05,7
+SKU-0718,Clothing,Stable,Clothing Product 0718,4028.49,2641.66,SUP-10,8
+SKU-0719,Home & Kitchen,Growing,Home Product 0719,5224.96,3736.81,SUP-07,4
+SKU-0720,Clothing,Seasonal,Clothing Product 0720,3511.56,2256.61,SUP-10,3
+SKU-0721,Clothing,Declining,Clothing Product 0721,1005.79,609.2,SUP-07,4
+SKU-0722,Clothing,Seasonal,Clothing Product 0722,1477.25,1005.92,SUP-03,5
+SKU-0723,Clothing,Seasonal,Clothing Product 0723,4019.05,2872.63,SUP-03,6
+SKU-0724,Beauty,Stable,Beauty Product 0724,2916.68,1641.01,SUP-10,1
+SKU-0725,Electronics,Seasonal,Electronics Product 0725,8986.26,6338.53,SUP-03,4
+SKU-0726,Home & Kitchen,Intermittent,Home Product 0726,2391.08,1708.02,SUP-06,3
+SKU-0727,Clothing,Growing,Clothing Product 0727,2575.33,1654.15,SUP-06,12
+SKU-0728,Home & Kitchen,Growing,Home Product 0728,7875.57,5880.38,SUP-03,2
+SKU-0729,Clothing,Growing,Clothing Product 0729,1637.21,1158.07,SUP-03,5
+SKU-0730,Beauty,Stable,Beauty Product 0730,1309.87,923.11,SUP-08,7
+SKU-0731,Home & Kitchen,Seasonal,Home Product 0731,7164.4,5011.98,SUP-08,5
+SKU-0732,Home & Kitchen,Declining,Home Product 0732,322.49,187.08,SUP-07,5
+SKU-0733,Beauty,Seasonal,Beauty Product 0733,263.33,156.27,SUP-10,1
+SKU-0734,Clothing,Declining,Clothing Product 0734,3178.73,2043.28,SUP-04,11
+SKU-0735,Clothing,Stable,Clothing Product 0735,4573.95,2757.18,SUP-04,7
+SKU-0736,Home & Kitchen,Stable,Home Product 0736,2139.2,1354.22,SUP-03,8
+SKU-0737,Clothing,Declining,Clothing Product 0737,2560.35,1863.15,SUP-05,7
+SKU-0738,Beauty,Growing,Beauty Product 0738,1433.83,1025.0,SUP-03,4
+SKU-0739,Beauty,Stable,Beauty Product 0739,1497.97,1012.64,SUP-08,8
+SKU-0740,Beauty,Declining,Beauty Product 0740,1924.18,1388.53,SUP-07,5
+SKU-0741,Beauty,Stable,Beauty Product 0741,1488.77,1052.19,SUP-03,10
+SKU-0742,Clothing,Seasonal,Clothing Product 0742,2458.35,1563.01,SUP-09,9
+SKU-0743,Clothing,Seasonal,Clothing Product 0743,2581.73,1523.77,SUP-05,12
+SKU-0744,Clothing,Seasonal,Clothing Product 0744,3117.99,2035.55,SUP-09,12
+SKU-0745,Electronics,Growing,Electronics Product 0745,16804.71,11717.01,SUP-07,2
+SKU-0746,Clothing,Declining,Clothing Product 0746,4329.03,2758.82,SUP-07,5
+SKU-0747,Home & Kitchen,Stable,Home Product 0747,681.13,465.45,SUP-06,8
+SKU-0748,Beauty,Seasonal,Beauty Product 0748,2524.95,1436.36,SUP-02,1
+SKU-0749,Home & Kitchen,Intermittent,Home Product 0749,6798.22,4756.04,SUP-09,4
+SKU-0750,Electronics,Stable,Electronics Product 0750,9619.88,6854.58,SUP-06,1
+SKU-0751,Clothing,Intermittent,Clothing Product 0751,2529.12,1748.55,SUP-08,12
+SKU-0752,Electronics,Seasonal,Electronics Product 0752,13998.35,10407.11,SUP-01,5
+SKU-0753,Home & Kitchen,Seasonal,Home Product 0753,1982.53,1418.16,SUP-05,6
+SKU-0754,Beauty,Intermittent,Beauty Product 0754,1280.87,935.83,SUP-01,4
+SKU-0755,Clothing,Stable,Clothing Product 0755,604.18,445.11,SUP-10,6
+SKU-0756,Beauty,Intermittent,Beauty Product 0756,941.79,668.92,SUP-08,8
+SKU-0757,Beauty,Seasonal,Beauty Product 0757,2477.54,1696.75,SUP-08,3
+SKU-0758,Clothing,Stable,Clothing Product 0758,1708.99,941.9,SUP-01,5
+SKU-0759,Home & Kitchen,Seasonal,Home Product 0759,6600.19,4245.01,SUP-09,2
+SKU-0760,Beauty,Intermittent,Beauty Product 0760,1665.06,1105.99,SUP-02,2
+SKU-0761,Clothing,Stable,Clothing Product 0761,4447.37,2716.48,SUP-09,7
+SKU-0762,Home & Kitchen,Seasonal,Home Product 0762,4725.8,2899.85,SUP-01,2
+SKU-0763,Electronics,Seasonal,Electronics Product 0763,2345.54,1740.93,SUP-10,5
+SKU-0764,Beauty,Intermittent,Beauty Product 0764,2074.95,1511.27,SUP-09,10
+SKU-0765,Clothing,Growing,Clothing Product 0765,606.33,436.46,SUP-04,11
+SKU-0766,Beauty,Stable,Beauty Product 0766,1434.2,905.27,SUP-09,10
+SKU-0767,Clothing,Growing,Clothing Product 0767,4675.36,2584.26,SUP-07,6
+SKU-0768,Home & Kitchen,Stable,Home Product 0768,1572.07,889.86,SUP-06,4
+SKU-0769,Electronics,Seasonal,Electronics Product 0769,12611.36,7723.69,SUP-05,5
+SKU-0770,Clothing,Stable,Clothing Product 0770,3757.36,2078.38,SUP-09,1
+SKU-0771,Clothing,Seasonal,Clothing Product 0771,4458.39,2467.41,SUP-02,7
+SKU-0772,Beauty,Intermittent,Beauty Product 0772,2062.19,1512.25,SUP-02,8
+SKU-0773,Clothing,Stable,Clothing Product 0773,1587.6,1097.4,SUP-09,9
+SKU-0774,Clothing,Stable,Clothing Product 0774,3503.2,2143.23,SUP-03,8
+SKU-0775,Beauty,Declining,Beauty Product 0775,995.67,574.03,SUP-08,5
+SKU-0776,Clothing,Seasonal,Clothing Product 0776,3704.77,2416.72,SUP-09,3
+SKU-0777,Beauty,Stable,Beauty Product 0777,2868.99,1581.01,SUP-08,10
+SKU-0778,Beauty,Stable,Beauty Product 0778,2205.97,1627.31,SUP-04,9
+SKU-0779,Beauty,Intermittent,Beauty Product 0779,2609.21,1651.53,SUP-01,6
+SKU-0780,Home & Kitchen,Declining,Home Product 0780,316.2,199.35,SUP-04,7
+SKU-0781,Beauty,Growing,Beauty Product 0781,2195.08,1378.77,SUP-09,5
+SKU-0782,Beauty,Stable,Beauty Product 0782,2514.32,1417.74,SUP-02,3
+SKU-0783,Clothing,Stable,Clothing Product 0783,586.57,397.5,SUP-03,6
+SKU-0784,Beauty,Growing,Beauty Product 0784,2634.05,1834.88,SUP-10,3
+SKU-0785,Beauty,Declining,Beauty Product 0785,881.58,604.08,SUP-08,10
+SKU-0786,Clothing,Declining,Clothing Product 0786,3460.34,1998.99,SUP-06,12
+SKU-0787,Home & Kitchen,Growing,Home Product 0787,6462.73,4302.68,SUP-08,6
+SKU-0788,Clothing,Stable,Clothing Product 0788,3448.26,2289.29,SUP-07,4
+SKU-0789,Beauty,Seasonal,Beauty Product 0789,413.01,298.89,SUP-05,2
+SKU-0790,Home & Kitchen,Seasonal,Home Product 0790,4891.68,3061.34,SUP-09,8
+SKU-0791,Clothing,Stable,Clothing Product 0791,2928.08,1827.99,SUP-04,8
+SKU-0792,Beauty,Intermittent,Beauty Product 0792,2715.92,1829.73,SUP-06,4
+SKU-0793,Home & Kitchen,Seasonal,Home Product 0793,3412.65,2309.05,SUP-02,1
+SKU-0794,Beauty,Seasonal,Beauty Product 0794,1065.08,685.76,SUP-02,7
+SKU-0795,Beauty,Seasonal,Beauty Product 0795,2287.07,1460.55,SUP-02,2
+SKU-0796,Beauty,Declining,Beauty Product 0796,1326.12,860.43,SUP-10,4
+SKU-0797,Home & Kitchen,Intermittent,Home Product 0797,5274.94,3809.61,SUP-07,5
+SKU-0798,Home & Kitchen,Growing,Home Product 0798,5277.67,3389.5,SUP-02,3
+SKU-0799,Beauty,Seasonal,Beauty Product 0799,2680.91,1978.48,SUP-02,9
+SKU-0800,Home & Kitchen,Intermittent,Home Product 0800,4909.93,3195.39,SUP-09,5
+SKU-0801,Clothing,Growing,Clothing Product 0801,2709.91,2004.9,SUP-07,5
+SKU-0802,Clothing,Declining,Clothing Product 0802,1038.81,744.38,SUP-03,2
+SKU-0803,Beauty,Growing,Beauty Product 0803,479.85,298.7,SUP-03,3
+SKU-0804,Clothing,Stable,Clothing Product 0804,1109.88,802.14,SUP-07,9
+SKU-0805,Beauty,Stable,Beauty Product 0805,639.77,365.96,SUP-05,7
+SKU-0806,Clothing,Stable,Clothing Product 0806,3334.23,2450.69,SUP-10,2
+SKU-0807,Home & Kitchen,Seasonal,Home Product 0807,6005.56,4061.73,SUP-06,1
+SKU-0808,Electronics,Declining,Electronics Product 0808,16604.76,9313.25,SUP-08,4
+SKU-0809,Home & Kitchen,Intermittent,Home Product 0809,6683.44,4537.06,SUP-09,5
+SKU-0810,Clothing,Growing,Clothing Product 0810,4959.81,3694.31,SUP-01,9
+SKU-0811,Beauty,Declining,Beauty Product 0811,2487.04,1402.59,SUP-03,2
+SKU-0812,Home & Kitchen,Stable,Home Product 0812,5650.59,3734.69,SUP-07,7
+SKU-0813,Clothing,Stable,Clothing Product 0813,2849.47,1993.37,SUP-06,12
+SKU-0814,Beauty,Stable,Beauty Product 0814,1429.23,1017.69,SUP-07,10
+SKU-0815,Beauty,Growing,Beauty Product 0815,390.52,247.11,SUP-08,4
+SKU-0816,Electronics,Growing,Electronics Product 0816,12882.01,7611.12,SUP-06,5
+SKU-0817,Beauty,Stable,Beauty Product 0817,2743.88,1532.37,SUP-03,2
+SKU-0818,Electronics,Intermittent,Electronics Product 0818,24528.64,16334.73,SUP-02,2
+SKU-0819,Clothing,Growing,Clothing Product 0819,1393.84,892.87,SUP-07,1
+SKU-0820,Clothing,Seasonal,Clothing Product 0820,2546.4,1883.7,SUP-01,7
+SKU-0821,Home & Kitchen,Intermittent,Home Product 0821,6588.77,3703.69,SUP-03,8
+SKU-0822,Clothing,Stable,Clothing Product 0822,709.97,487.81,SUP-04,10
+SKU-0823,Beauty,Intermittent,Beauty Product 0823,1254.07,696.0,SUP-01,1
+SKU-0824,Clothing,Stable,Clothing Product 0824,4318.47,2523.23,SUP-05,11
+SKU-0825,Clothing,Declining,Clothing Product 0825,2257.93,1446.69,SUP-10,11
+SKU-0826,Beauty,Growing,Beauty Product 0826,371.2,237.93,SUP-03,8
+SKU-0827,Beauty,Intermittent,Beauty Product 0827,1696.22,1165.54,SUP-02,3
+SKU-0828,Beauty,Stable,Beauty Product 0828,2605.97,1907.68,SUP-03,10
+SKU-0829,Home & Kitchen,Growing,Home Product 0829,4845.2,3284.11,SUP-08,6
+SKU-0830,Clothing,Growing,Clothing Product 0830,1440.88,1067.27,SUP-06,7
+SKU-0831,Home & Kitchen,Growing,Home Product 0831,3258.65,2366.83,SUP-07,2
+SKU-0832,Clothing,Intermittent,Clothing Product 0832,2470.57,1647.62,SUP-06,1
+SKU-0833,Home & Kitchen,Growing,Home Product 0833,4760.35,3412.02,SUP-06,6
+SKU-0834,Beauty,Stable,Beauty Product 0834,2314.15,1570.19,SUP-03,6
+SKU-0835,Clothing,Seasonal,Clothing Product 0835,854.82,483.58,SUP-08,7
+SKU-0836,Clothing,Seasonal,Clothing Product 0836,4492.4,3136.2,SUP-07,6
+SKU-0837,Beauty,Growing,Beauty Product 0837,185.08,105.31,SUP-07,4
+SKU-0838,Clothing,Growing,Clothing Product 0838,2102.24,1406.01,SUP-06,1
+SKU-0839,Beauty,Declining,Beauty Product 0839,228.15,157.54,SUP-05,9
+SKU-0840,Clothing,Seasonal,Clothing Product 0840,2207.68,1243.6,SUP-10,4
+SKU-0841,Beauty,Growing,Beauty Product 0841,1648.57,982.81,SUP-08,7
+SKU-0842,Clothing,Seasonal,Clothing Product 0842,2753.73,2018.85,SUP-05,7
+SKU-0843,Home & Kitchen,Growing,Home Product 0843,1575.34,1060.62,SUP-09,2
+SKU-0844,Home & Kitchen,Growing,Home Product 0844,5272.2,3159.4,SUP-09,1
+SKU-0845,Beauty,Stable,Beauty Product 0845,277.62,191.04,SUP-01,8
+SKU-0846,Clothing,Intermittent,Clothing Product 0846,3904.77,2613.68,SUP-06,8
+SKU-0847,Beauty,Stable,Beauty Product 0847,2847.94,1852.06,SUP-07,7
+SKU-0848,Beauty,Growing,Beauty Product 0848,1118.34,833.43,SUP-03,8
+SKU-0849,Clothing,Growing,Clothing Product 0849,2779.3,1908.52,SUP-07,3
+SKU-0850,Clothing,Stable,Clothing Product 0850,2142.99,1339.56,SUP-07,11
+SKU-0851,Clothing,Intermittent,Clothing Product 0851,430.87,305.92,SUP-02,2
+SKU-0852,Clothing,Stable,Clothing Product 0852,2175.02,1581.06,SUP-07,7
+SKU-0853,Clothing,Intermittent,Clothing Product 0853,4041.91,2324.28,SUP-01,8
+SKU-0854,Home & Kitchen,Growing,Home Product 0854,4889.11,2885.12,SUP-05,1
+SKU-0855,Home & Kitchen,Seasonal,Home Product 0855,1079.7,640.53,SUP-09,4
+SKU-0856,Beauty,Seasonal,Beauty Product 0856,2564.35,1764.89,SUP-07,10
+SKU-0857,Clothing,Seasonal,Clothing Product 0857,2842.99,1906.53,SUP-07,9
+SKU-0858,Home & Kitchen,Stable,Home Product 0858,6781.27,4569.21,SUP-02,7
+SKU-0859,Clothing,Growing,Clothing Product 0859,3069.02,2265.41,SUP-08,11
+SKU-0860,Beauty,Stable,Beauty Product 0860,1745.11,1230.62,SUP-03,4
+SKU-0861,Home & Kitchen,Stable,Home Product 0861,1110.5,639.19,SUP-08,8
+SKU-0862,Clothing,Stable,Clothing Product 0862,1169.85,724.72,SUP-03,12
+SKU-0863,Beauty,Intermittent,Beauty Product 0863,2920.27,1860.44,SUP-10,4
+SKU-0864,Home & Kitchen,Stable,Home Product 0864,2059.35,1295.73,SUP-07,3
+SKU-0865,Home & Kitchen,Declining,Home Product 0865,7826.38,5352.16,SUP-02,6
+SKU-0866,Beauty,Declining,Beauty Product 0866,1665.95,1213.44,SUP-04,1
+SKU-0867,Clothing,Stable,Clothing Product 0867,1024.63,626.26,SUP-06,6
+SKU-0868,Home & Kitchen,Declining,Home Product 0868,1064.63,703.06,SUP-09,2
+SKU-0869,Home & Kitchen,Intermittent,Home Product 0869,1908.25,1350.82,SUP-05,1
+SKU-0870,Home & Kitchen,Declining,Home Product 0870,7427.41,4703.36,SUP-09,2
+SKU-0871,Clothing,Declining,Clothing Product 0871,2305.09,1345.3,SUP-05,7
+SKU-0872,Beauty,Growing,Beauty Product 0872,1276.99,823.65,SUP-10,1
+SKU-0873,Home & Kitchen,Stable,Home Product 0873,2711.69,1521.38,SUP-08,4
+SKU-0874,Clothing,Stable,Clothing Product 0874,1076.48,794.96,SUP-01,7
+SKU-0875,Beauty,Seasonal,Beauty Product 0875,1540.38,870.26,SUP-07,5
+SKU-0876,Beauty,Intermittent,Beauty Product 0876,520.64,332.01,SUP-04,8
+SKU-0877,Beauty,Stable,Beauty Product 0877,2531.12,1660.35,SUP-05,4
+SKU-0878,Beauty,Seasonal,Beauty Product 0878,1205.63,900.68,SUP-06,10
+SKU-0879,Electronics,Stable,Electronics Product 0879,12181.9,7104.54,SUP-05,5
+SKU-0880,Home & Kitchen,Stable,Home Product 0880,3949.85,2262.81,SUP-01,4
+SKU-0881,Clothing,Growing,Clothing Product 0881,2442.99,1347.9,SUP-09,7
+SKU-0882,Clothing,Stable,Clothing Product 0882,4976.35,2891.83,SUP-02,12
+SKU-0883,Beauty,Seasonal,Beauty Product 0883,1704.34,1008.04,SUP-09,5
+SKU-0884,Beauty,Stable,Beauty Product 0884,401.37,271.37,SUP-10,5
+SKU-0885,Clothing,Stable,Clothing Product 0885,3191.64,1895.65,SUP-02,1
+SKU-0886,Beauty,Seasonal,Beauty Product 0886,582.02,322.5,SUP-09,2
+SKU-0887,Beauty,Seasonal,Beauty Product 0887,238.17,170.37,SUP-06,5
+SKU-0888,Home & Kitchen,Seasonal,Home Product 0888,7774.71,4844.57,SUP-09,5
+SKU-0889,Clothing,Stable,Clothing Product 0889,3958.28,2457.06,SUP-06,3
+SKU-0890,Electronics,Stable,Electronics Product 0890,29433.11,17968.79,SUP-06,5
+SKU-0891,Beauty,Declining,Beauty Product 0891,1511.95,1126.52,SUP-02,2
+SKU-0892,Beauty,Growing,Beauty Product 0892,1666.93,973.53,SUP-08,4
+SKU-0893,Electronics,Growing,Electronics Product 0893,6297.6,4595.03,SUP-03,4
+SKU-0894,Clothing,Stable,Clothing Product 0894,1535.77,1083.27,SUP-07,4
+SKU-0895,Beauty,Growing,Beauty Product 0895,2539.87,1435.78,SUP-05,4
+SKU-0896,Beauty,Stable,Beauty Product 0896,1165.13,870.76,SUP-03,3
+SKU-0897,Clothing,Growing,Clothing Product 0897,4203.35,2539.97,SUP-01,12
+SKU-0898,Beauty,Stable,Beauty Product 0898,2170.69,1236.68,SUP-08,7
+SKU-0899,Beauty,Growing,Beauty Product 0899,654.94,468.85,SUP-03,9
+SKU-0900,Clothing,Seasonal,Clothing Product 0900,2734.25,1890.28,SUP-02,12
+SKU-0901,Home & Kitchen,Stable,Home Product 0901,5515.88,3714.63,SUP-01,5
+SKU-0902,Beauty,Seasonal,Beauty Product 0902,819.86,476.5,SUP-04,4
+SKU-0903,Clothing,Declining,Clothing Product 0903,4221.17,2725.61,SUP-08,11
+SKU-0904,Clothing,Seasonal,Clothing Product 0904,2906.21,2052.11,SUP-03,2
+SKU-0905,Beauty,Intermittent,Beauty Product 0905,620.94,379.22,SUP-01,2
+SKU-0906,Home & Kitchen,Declining,Home Product 0906,4788.98,2932.47,SUP-04,5
+SKU-0907,Clothing,Stable,Clothing Product 0907,4998.68,2752.41,SUP-09,7
+SKU-0908,Home & Kitchen,Stable,Home Product 0908,1459.02,853.31,SUP-01,2
+SKU-0909,Clothing,Declining,Clothing Product 0909,4157.08,3014.22,SUP-02,10
+SKU-0910,Clothing,Growing,Clothing Product 0910,1353.62,864.08,SUP-09,9
+SKU-0911,Clothing,Stable,Clothing Product 0911,3998.99,2986.63,SUP-02,7
+SKU-0912,Clothing,Growing,Clothing Product 0912,3779.06,2377.56,SUP-03,5
+SKU-0913,Beauty,Stable,Beauty Product 0913,1006.39,697.47,SUP-07,10
+SKU-0914,Clothing,Seasonal,Clothing Product 0914,1898.79,1151.4,SUP-03,10
+SKU-0915,Beauty,Intermittent,Beauty Product 0915,2408.69,1500.04,SUP-09,10
+SKU-0916,Home & Kitchen,Stable,Home Product 0916,3853.13,2266.2,SUP-06,6
+SKU-0917,Beauty,Seasonal,Beauty Product 0917,2232.83,1383.04,SUP-03,3
+SKU-0918,Beauty,Growing,Beauty Product 0918,571.75,377.04,SUP-09,5
+SKU-0919,Clothing,Intermittent,Clothing Product 0919,4321.77,3234.22,SUP-01,8
+SKU-0920,Clothing,Growing,Clothing Product 0920,3670.07,2506.07,SUP-10,1
+SKU-0921,Clothing,Seasonal,Clothing Product 0921,4571.94,2696.76,SUP-03,12
+SKU-0922,Clothing,Declining,Clothing Product 0922,1008.91,563.97,SUP-01,1
+SKU-0923,Beauty,Growing,Beauty Product 0923,1840.09,1058.55,SUP-02,7
+SKU-0924,Clothing,Intermittent,Clothing Product 0924,3155.95,2090.85,SUP-08,5
+SKU-0925,Clothing,Intermittent,Clothing Product 0925,2025.92,1424.29,SUP-07,5
+SKU-0926,Home & Kitchen,Seasonal,Home Product 0926,3830.19,2827.0,SUP-02,1
+SKU-0927,Clothing,Stable,Clothing Product 0927,574.72,317.91,SUP-02,9
+SKU-0928,Clothing,Growing,Clothing Product 0928,3830.96,2507.56,SUP-09,1
+SKU-0929,Clothing,Intermittent,Clothing Product 0929,2926.88,1885.42,SUP-06,5
+SKU-0930,Home & Kitchen,Seasonal,Home Product 0930,744.61,507.24,SUP-05,2
+SKU-0931,Clothing,Declining,Clothing Product 0931,3531.48,2337.54,SUP-10,9
+SKU-0932,Clothing,Seasonal,Clothing Product 0932,2547.2,1750.97,SUP-06,4
+SKU-0933,Home & Kitchen,Growing,Home Product 0933,565.35,385.35,SUP-09,5
+SKU-0934,Beauty,Stable,Beauty Product 0934,2913.38,1670.54,SUP-07,8
+SKU-0935,Beauty,Stable,Beauty Product 0935,2854.97,2026.87,SUP-10,6
+SKU-0936,Clothing,Stable,Clothing Product 0936,2759.35,1585.65,SUP-10,11
+SKU-0937,Clothing,Growing,Clothing Product 0937,830.89,573.07,SUP-09,3
+SKU-0938,Clothing,Growing,Clothing Product 0938,3871.26,2451.39,SUP-04,4
+SKU-0939,Clothing,Stable,Clothing Product 0939,2662.88,1738.25,SUP-02,2
+SKU-0940,Beauty,Stable,Beauty Product 0940,1011.98,739.41,SUP-08,1
+SKU-0941,Clothing,Growing,Clothing Product 0941,2660.52,1936.8,SUP-04,8
+SKU-0942,Clothing,Growing,Clothing Product 0942,2803.24,2000.31,SUP-09,1
+SKU-0943,Clothing,Declining,Clothing Product 0943,2988.47,1948.57,SUP-04,11
+SKU-0944,Clothing,Seasonal,Clothing Product 0944,2429.63,1694.05,SUP-08,1
+SKU-0945,Beauty,Stable,Beauty Product 0945,1876.4,1224.5,SUP-09,4
+SKU-0946,Beauty,Stable,Beauty Product 0946,2768.39,2004.1,SUP-09,10
+SKU-0947,Clothing,Seasonal,Clothing Product 0947,2066.43,1303.0,SUP-10,12
+SKU-0948,Beauty,Seasonal,Beauty Product 0948,2218.29,1650.51,SUP-04,10
+SKU-0949,Clothing,Declining,Clothing Product 0949,4514.48,3324.75,SUP-01,6
+SKU-0950,Clothing,Seasonal,Clothing Product 0950,2497.5,1744.06,SUP-03,9
+SKU-0951,Clothing,Intermittent,Clothing Product 0951,2439.9,1478.29,SUP-09,1
+SKU-0952,Clothing,Stable,Clothing Product 0952,3169.74,1826.82,SUP-04,7
+SKU-0953,Electronics,Stable,Electronics Product 0953,18355.09,13232.93,SUP-05,2
+SKU-0954,Home & Kitchen,Stable,Home Product 0954,6510.74,3796.16,SUP-07,3
+SKU-0955,Clothing,Stable,Clothing Product 0955,2591.82,1868.32,SUP-05,5
+SKU-0956,Beauty,Stable,Beauty Product 0956,2988.95,1937.3,SUP-04,8
+SKU-0957,Home & Kitchen,Growing,Home Product 0957,757.93,478.49,SUP-02,6
+SKU-0958,Clothing,Intermittent,Clothing Product 0958,414.57,302.9,SUP-02,7
+SKU-0959,Electronics,Intermittent,Electronics Product 0959,19745.65,13244.79,SUP-04,4
+SKU-0960,Clothing,Intermittent,Clothing Product 0960,1772.8,1179.48,SUP-10,4
+SKU-0961,Home & Kitchen,Growing,Home Product 0961,2150.94,1423.39,SUP-10,6
+SKU-0962,Clothing,Intermittent,Clothing Product 0962,1834.74,1145.31,SUP-09,6
+SKU-0963,Clothing,Seasonal,Clothing Product 0963,1577.82,1115.72,SUP-08,9
+SKU-0964,Beauty,Stable,Beauty Product 0964,237.75,142.78,SUP-03,5
+SKU-0965,Beauty,Stable,Beauty Product 0965,2918.87,2153.48,SUP-09,8
+SKU-0966,Clothing,Growing,Clothing Product 0966,1415.43,1031.56,SUP-05,5
+SKU-0967,Clothing,Stable,Clothing Product 0967,3776.54,2332.0,SUP-03,2
+SKU-0968,Beauty,Stable,Beauty Product 0968,2323.4,1616.84,SUP-05,6
+SKU-0969,Electronics,Growing,Electronics Product 0969,27983.84,18599.31,SUP-10,1
+SKU-0970,Clothing,Seasonal,Clothing Product 0970,540.53,333.79,SUP-04,3
+SKU-0971,Home & Kitchen,Declining,Home Product 0971,7014.77,5244.97,SUP-08,8
+SKU-0972,Clothing,Growing,Clothing Product 0972,2825.24,1568.14,SUP-05,1
+SKU-0973,Beauty,Intermittent,Beauty Product 0973,1952.75,1172.68,SUP-10,1
+SKU-0974,Clothing,Declining,Clothing Product 0974,3364.56,2200.47,SUP-08,3
+SKU-0975,Clothing,Stable,Clothing Product 0975,4171.07,2729.51,SUP-09,10
+SKU-0976,Clothing,Seasonal,Clothing Product 0976,1933.67,1291.28,SUP-04,5
+SKU-0977,Beauty,Seasonal,Beauty Product 0977,2239.2,1568.19,SUP-07,3
+SKU-0978,Clothing,Stable,Clothing Product 0978,2831.46,1910.37,SUP-02,9
+SKU-0979,Beauty,Declining,Beauty Product 0979,2411.17,1615.62,SUP-06,8
+SKU-0980,Beauty,Intermittent,Beauty Product 0980,2973.06,1667.0,SUP-08,3
+SKU-0981,Home & Kitchen,Intermittent,Home Product 0981,1845.01,1153.7,SUP-07,1
+SKU-0982,Clothing,Stable,Clothing Product 0982,4975.38,2967.37,SUP-07,6
+SKU-0983,Clothing,Seasonal,Clothing Product 0983,813.14,490.38,SUP-08,7
+SKU-0984,Beauty,Stable,Beauty Product 0984,156.61,103.5,SUP-07,4
+SKU-0985,Clothing,Declining,Clothing Product 0985,603.14,355.79,SUP-05,4
+SKU-0986,Clothing,Declining,Clothing Product 0986,1972.2,1200.66,SUP-07,12
+SKU-0987,Beauty,Seasonal,Beauty Product 0987,1953.78,1167.22,SUP-10,2
+SKU-0988,Home & Kitchen,Growing,Home Product 0988,831.53,615.08,SUP-03,5
+SKU-0989,Electronics,Growing,Electronics Product 0989,1661.48,1227.72,SUP-05,3
+SKU-0990,Clothing,Growing,Clothing Product 0990,4710.62,3165.48,SUP-07,5
+SKU-0991,Clothing,Declining,Clothing Product 0991,4180.86,3072.53,SUP-09,1
+SKU-0992,Clothing,Stable,Clothing Product 0992,4122.24,2915.09,SUP-02,7
+SKU-0993,Beauty,Declining,Beauty Product 0993,2670.61,1783.94,SUP-04,9
+SKU-0994,Clothing,Stable,Clothing Product 0994,3620.16,1995.75,SUP-07,1
+SKU-0995,Clothing,Declining,Clothing Product 0995,880.26,620.15,SUP-01,2
+SKU-0996,Beauty,Growing,Beauty Product 0996,1287.44,888.97,SUP-02,3
+SKU-0997,Clothing,Declining,Clothing Product 0997,3726.49,2508.12,SUP-09,3
+SKU-0998,Beauty,Declining,Beauty Product 0998,948.95,666.24,SUP-10,8
+SKU-0999,Clothing,Growing,Clothing Product 0999,3562.07,2324.55,SUP-07,7
+SKU-1000,Beauty,Stable,Beauty Product 1000,219.82,151.86,SUP-10,6
+SKU-1001,Clothing,Stable,Clothing Product 1001,1808.23,1332.73,SUP-07,10
+SKU-1002,Electronics,Stable,Electronics Product 1002,17150.21,10721.64,SUP-06,2
+SKU-1003,Beauty,Declining,Beauty Product 1003,1951.46,1349.68,SUP-03,4
+SKU-1004,Clothing,Seasonal,Clothing Product 1004,3054.39,1970.5,SUP-10,9
+SKU-1005,Clothing,Stable,Clothing Product 1005,3609.68,2472.2,SUP-03,1
+SKU-1006,Clothing,Stable,Clothing Product 1006,428.01,300.71,SUP-02,11
+SKU-1007,Clothing,Intermittent,Clothing Product 1007,864.33,483.24,SUP-06,2
+SKU-1008,Electronics,Seasonal,Electronics Product 1008,26264.91,17842.28,SUP-04,4
+SKU-1009,Electronics,Growing,Electronics Product 1009,20929.84,12460.54,SUP-05,3
+SKU-1010,Beauty,Stable,Beauty Product 1010,471.86,322.76,SUP-03,1
+SKU-1011,Clothing,Stable,Clothing Product 1011,4273.54,2750.73,SUP-06,5
+SKU-1012,Beauty,Seasonal,Beauty Product 1012,840.36,592.21,SUP-03,7
+SKU-1013,Home & Kitchen,Stable,Home Product 1013,3982.6,2288.72,SUP-08,2
+SKU-1014,Home & Kitchen,Stable,Home Product 1014,1418.01,957.53,SUP-09,5
+SKU-1015,Electronics,Seasonal,Electronics Product 1015,21738.14,13166.66,SUP-04,3
+SKU-1016,Electronics,Seasonal,Electronics Product 1016,20505.35,14776.08,SUP-09,1
+SKU-1017,Home & Kitchen,Stable,Home Product 1017,1925.57,1416.6,SUP-07,7
+SKU-1018,Clothing,Intermittent,Clothing Product 1018,4371.64,3275.58,SUP-03,4
+SKU-1019,Clothing,Growing,Clothing Product 1019,2246.01,1592.87,SUP-07,8
+SKU-1020,Clothing,Stable,Clothing Product 1020,1745.57,1223.2,SUP-01,4
+SKU-1021,Home & Kitchen,Stable,Home Product 1021,1472.94,873.6,SUP-03,6
+SKU-1022,Clothing,Growing,Clothing Product 1022,1624.37,1002.56,SUP-06,9
+SKU-1023,Clothing,Declining,Clothing Product 1023,501.32,322.42,SUP-04,5
+SKU-1024,Clothing,Declining,Clothing Product 1024,3082.98,2172.5,SUP-07,12
+SKU-1025,Clothing,Seasonal,Clothing Product 1025,4274.26,3133.0,SUP-03,4
+SKU-1026,Clothing,Stable,Clothing Product 1026,2925.31,1719.58,SUP-01,8
+SKU-1027,Clothing,Declining,Clothing Product 1027,1408.66,1034.62,SUP-09,9
+SKU-1028,Electronics,Stable,Electronics Product 1028,2459.57,1694.95,SUP-06,4
+SKU-1029,Electronics,Seasonal,Electronics Product 1029,7616.9,5119.73,SUP-08,3
+SKU-1030,Clothing,Seasonal,Clothing Product 1030,2314.16,1365.28,SUP-03,8
+SKU-1031,Clothing,Seasonal,Clothing Product 1031,3894.21,2185.06,SUP-08,5
+SKU-1032,Home & Kitchen,Stable,Home Product 1032,1746.39,1159.07,SUP-02,2
+SKU-1033,Clothing,Growing,Clothing Product 1033,3711.04,2524.63,SUP-04,10
+SKU-1034,Home & Kitchen,Declining,Home Product 1034,6975.39,4130.52,SUP-03,1
+SKU-1035,Clothing,Declining,Clothing Product 1035,2488.16,1645.4,SUP-10,3
+SKU-1036,Beauty,Stable,Beauty Product 1036,2491.08,1796.81,SUP-01,2
+SKU-1037,Clothing,Growing,Clothing Product 1037,2951.42,2116.21,SUP-07,1
+SKU-1038,Clothing,Growing,Clothing Product 1038,3330.62,2449.57,SUP-10,8
+SKU-1039,Home & Kitchen,Intermittent,Home Product 1039,4352.34,2712.28,SUP-02,3
+SKU-1040,Beauty,Stable,Beauty Product 1040,1470.04,902.03,SUP-04,3
+SKU-1041,Clothing,Stable,Clothing Product 1041,1479.41,1035.42,SUP-09,7
+SKU-1042,Beauty,Stable,Beauty Product 1042,1014.1,645.19,SUP-06,1
+SKU-1043,Home & Kitchen,Growing,Home Product 1043,2532.77,1437.37,SUP-08,1
+SKU-1044,Beauty,Stable,Beauty Product 1044,1755.37,1064.74,SUP-02,9
+SKU-1045,Home & Kitchen,Growing,Home Product 1045,1223.64,775.44,SUP-07,7
+SKU-1046,Home & Kitchen,Growing,Home Product 1046,7359.3,4478.16,SUP-06,4
+SKU-1047,Clothing,Declining,Clothing Product 1047,3715.01,2290.08,SUP-09,8
+SKU-1048,Clothing,Declining,Clothing Product 1048,2246.65,1367.66,SUP-07,12
+SKU-1049,Clothing,Declining,Clothing Product 1049,1129.67,630.69,SUP-01,3
+SKU-1050,Clothing,Growing,Clothing Product 1050,4457.16,3019.36,SUP-08,6
+SKU-1051,Beauty,Seasonal,Beauty Product 1051,2497.77,1672.15,SUP-10,3
+SKU-1052,Beauty,Seasonal,Beauty Product 1052,2206.91,1502.19,SUP-03,4
+SKU-1053,Home & Kitchen,Seasonal,Home Product 1053,2390.91,1406.96,SUP-02,1
+SKU-1054,Electronics,Seasonal,Electronics Product 1054,12969.73,7900.26,SUP-03,5
+SKU-1055,Clothing,Stable,Clothing Product 1055,872.64,588.09,SUP-06,1
+SKU-1056,Clothing,Seasonal,Clothing Product 1056,1269.58,850.52,SUP-03,1
+SKU-1057,Beauty,Stable,Beauty Product 1057,2381.6,1551.06,SUP-10,10
+SKU-1058,Electronics,Seasonal,Electronics Product 1058,21878.6,13566.54,SUP-05,3
+SKU-1059,Beauty,Declining,Beauty Product 1059,1841.43,1349.01,SUP-06,7
+SKU-1060,Clothing,Stable,Clothing Product 1060,4520.34,2793.36,SUP-08,12
+SKU-1061,Clothing,Stable,Clothing Product 1061,3083.03,1976.6,SUP-07,6
+SKU-1062,Home & Kitchen,Stable,Home Product 1062,3895.65,2670.95,SUP-08,2
+SKU-1063,Electronics,Declining,Electronics Product 1063,11200.57,7376.74,SUP-03,3
+SKU-1064,Clothing,Growing,Clothing Product 1064,4726.06,2927.21,SUP-04,12
+SKU-1065,Clothing,Declining,Clothing Product 1065,780.49,497.27,SUP-06,2
+SKU-1066,Clothing,Seasonal,Clothing Product 1066,4682.08,3319.11,SUP-07,11
+SKU-1067,Home & Kitchen,Seasonal,Home Product 1067,6665.7,4036.92,SUP-09,7
+SKU-1068,Beauty,Intermittent,Beauty Product 1068,520.3,300.97,SUP-01,1
+SKU-1069,Electronics,Growing,Electronics Product 1069,17602.05,10783.59,SUP-08,5
+SKU-1070,Clothing,Declining,Clothing Product 1070,4386.12,3157.6,SUP-08,2
+SKU-1071,Beauty,Seasonal,Beauty Product 1071,1779.66,1010.49,SUP-06,8
+SKU-1072,Clothing,Growing,Clothing Product 1072,4573.12,3422.25,SUP-04,6
+SKU-1073,Beauty,Growing,Beauty Product 1073,2837.5,1867.64,SUP-03,2
+SKU-1074,Clothing,Intermittent,Clothing Product 1074,2342.97,1750.13,SUP-03,7
+SKU-1075,Beauty,Stable,Beauty Product 1075,1225.34,904.05,SUP-06,4
+SKU-1076,Home & Kitchen,Intermittent,Home Product 1076,7509.67,4810.41,SUP-08,2
+SKU-1077,Beauty,Seasonal,Beauty Product 1077,2074.15,1223.12,SUP-07,6
+SKU-1078,Clothing,Intermittent,Clothing Product 1078,933.7,544.33,SUP-01,11
+SKU-1079,Clothing,Stable,Clothing Product 1079,594.54,355.53,SUP-06,9
+SKU-1080,Clothing,Declining,Clothing Product 1080,2997.29,2074.2,SUP-07,11
+SKU-1081,Beauty,Intermittent,Beauty Product 1081,2800.99,1693.45,SUP-07,9
+SKU-1082,Clothing,Seasonal,Clothing Product 1082,4283.54,2648.45,SUP-09,8
+SKU-1083,Home & Kitchen,Intermittent,Home Product 1083,5504.03,3521.23,SUP-10,7
+SKU-1084,Electronics,Growing,Electronics Product 1084,5464.8,4003.77,SUP-05,3
+SKU-1085,Clothing,Declining,Clothing Product 1085,1569.46,922.65,SUP-01,3
+SKU-1086,Home & Kitchen,Intermittent,Home Product 1086,7041.44,3879.87,SUP-02,2
+SKU-1087,Beauty,Declining,Beauty Product 1087,671.0,377.11,SUP-04,5
+SKU-1088,Clothing,Declining,Clothing Product 1088,1680.82,1228.6,SUP-05,12
+SKU-1089,Beauty,Stable,Beauty Product 1089,519.36,352.91,SUP-09,4
+SKU-1090,Clothing,Stable,Clothing Product 1090,3510.1,2122.23,SUP-01,7
+SKU-1091,Clothing,Seasonal,Clothing Product 1091,4742.32,2776.34,SUP-03,4
+SKU-1092,Home & Kitchen,Seasonal,Home Product 1092,2371.05,1443.62,SUP-05,8
+SKU-1093,Beauty,Stable,Beauty Product 1093,1504.91,862.25,SUP-03,9
+SKU-1094,Electronics,Seasonal,Electronics Product 1094,19578.68,14455.07,SUP-04,4
+SKU-1095,Clothing,Growing,Clothing Product 1095,4997.54,3532.47,SUP-03,12
+SKU-1096,Clothing,Stable,Clothing Product 1096,882.12,566.74,SUP-04,2
+SKU-1097,Home & Kitchen,Growing,Home Product 1097,4139.0,2992.47,SUP-01,3
+SKU-1098,Beauty,Seasonal,Beauty Product 1098,1247.59,748.42,SUP-08,6
+SKU-1099,Beauty,Declining,Beauty Product 1099,2617.59,1815.1,SUP-04,7
+SKU-1100,Beauty,Stable,Beauty Product 1100,1506.51,1086.53,SUP-07,4
